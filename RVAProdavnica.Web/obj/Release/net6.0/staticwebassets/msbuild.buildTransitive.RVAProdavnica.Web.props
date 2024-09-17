@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RVAProdavnica.Web.props" />
+</Project>

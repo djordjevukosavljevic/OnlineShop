@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>@ViewData["Title"] - RVAProdavnica.Web</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+        integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <partial name="Styles" />
+    @await RenderSectionAsync("Styles", required: false);
+</head>
+
+<body class="g-sidenav-show  bg-gray-200">
+    <partial name="Sidenavbar" />
+
+    <main class="main-content border-radius-lg position-relative max-height-vh-100 h-100 border-radius-lg">
+        <div class="container-fluid py-4">
+            <partial name="Navbar" />
+            @RenderBody()
+            <partial name="Footer" />
+        </div>
+    </main>
+</body>
+<partial name="Scripts" />
+@await RenderSectionAsync("Scripts", required: false);
+
+</html>
+
+<script type="text/javascript">
+    document.getElementById("settingBtn").onclick = function () {
+        window.alert("radi!")
+    }
+</script>

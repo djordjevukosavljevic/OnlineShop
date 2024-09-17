@@ -1,0 +1,176 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj",
+        "projectName": "RVAProdavnica.Data",
+        "projectPath": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj",
+        "packagesPath": "C:\\Users\\zorzezorz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zorzezorz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FsCheck": {
+              "target": "Package",
+              "version": "[2.16.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "bootstrap": {
+              "target": "Package",
+              "version": "[5.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj",
+        "projectName": "RVAProdavnica.Repositories",
+        "projectPath": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj",
+        "packagesPath": "C:\\Users\\zorzezorz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zorzezorz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj": {
+                "projectPath": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Dapper.SimpleCRUD": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            },
+            "bootstrap": {
+              "target": "Package",
+              "version": "[5.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

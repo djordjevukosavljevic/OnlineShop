@@ -1,0 +1,27 @@
+﻿ @{
+    ViewData["Title"] = "Cart:";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<add name="JavaScriptHandler"
+     path="~/js/cart.js"
+     verb="*"
+     preCondition="integratedMode"
+     type="System.Web.StaticFileHandler" />
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 class="col-lg-6 mb-lg-0 mb-4 form-group container-fluid"></h1>
+    <div class="">
+        @* Here we would need to take some changes.*@
+        <label>Below are products that are currently in the cart</label>
+    </div>
+</body>
+</html>

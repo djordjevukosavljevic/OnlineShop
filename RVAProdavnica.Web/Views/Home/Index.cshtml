@@ -1,0 +1,34 @@
+﻿@*@model UserModel*@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<add name="JavaScriptHandler"
+     path="~/js/home.js"
+     verb="*"
+     preCondition="integratedMode"
+     type="System.Web.StaticFileHandler" />
+
+@section Scripts{
+    <script src="~/js/home.js"></script>
+}   
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p class="display-4" style="color: #344767; font: 56px Roboto Slab">to online shop.</p>
+   
+</div>
+<div class="text-center">
+    <p class="display-4" style="color: #344767; font: 26px Roboto Slab">If you need any additional support or you have some sugestions, contact us below</p>
+    <div class="text-align">
+        <label>
+            <button>
+            <a href="mailto:djordje.vukosavljevic01@gmail.com" style="text-combine-upright">Click here</a>
+            </button>
+        </label>
+    </div>
+
+  
+</div>
+
+

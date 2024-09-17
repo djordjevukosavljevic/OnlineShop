@@ -1,0 +1,12 @@
+C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Models\bin\Release\net6.0\RVAProdavnica.Models.deps.json
+C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Models\bin\Release\net6.0\RVAProdavnica.Models.dll
+C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Models\bin\Release\net6.0\RVAProdavnica.Models.pdb
+C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Models\obj\Release\net6.0\RVAProdavnica.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Models\obj\Release\net6.0\RVAProdavnica.Models.AssemblyInfoInputs.cache
+C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Models\obj\Release\net6.0\RVAProdavnica.Models.AssemblyInfo.cs
+C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Models\obj\Release\net6.0\RVAProdavnica.Models.csproj.CoreCompileInputs.cache
+C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Models\obj\Release\net6.0\RVAProdavnica.Models.sourcelink.json
+C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Models\obj\Release\net6.0\RVAProdavnica.Models.dll
+C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Models\obj\Release\net6.0\refint\RVAProdavnica.Models.dll
+C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Models\obj\Release\net6.0\RVAProdavnica.Models.pdb
+C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Models\obj\Release\net6.0\ref\RVAProdavnica.Models.dll
