@@ -1,4 +1,6 @@
 ﻿ <!-- Navbar -->
+ 
+<div>
 <nav class="navbar navbar-main navbar-expand-lg px-0 mx-4 shadow-none border-radius-xl" id="navbarBlur" data-scroll="true">
     <script src="text/javascript"></script>
     <div class="container-fluid py-1 px-3">
@@ -9,7 +11,7 @@
                 <li class="nav-item d-flex align-items-center">
                 </li>
                 <li class="nav-item d-flex align-items-center">
-                    <a class="nav-link text-body font-weight-bold px-0" asp-area="Administration" asp-action="Index" asp-controller="Account">
+                    <a class="nav-link text-body font-weight-bold px-0" id="accountId" asp-area="Administration" asp-action="Index" asp-controller="Account">
                         <i class="fa-regular fa-user"></i>
                         <span class="d-sm-inline d-none" id="loginBtn">Log in</span>
                     </a>
@@ -110,5 +112,6 @@
         </div>
     </div>
 </nav>
-
+<script src="./js/account.js" asp-append-version="true"></script>
+</div>
 <!-- End Navbar -->
