@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7Uha3s645U9D8dv1+2lPPj4nbn0KaJyWZC/i9dtN7eA=",
+  "Hash": "7PImxWZ6ZbicVn8+QEO5rJmms8gGTNHoC/4RXYHJlSU=",
   "Source": "RVAProdavnica.Web",
   "BasePath": "_content/RVAProdavnica.Web",
   "Mode": "Default",
@@ -2352,6 +2352,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\google-fonts\\Roboto.css"
+    },
+    {
+      "Identity": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.WEb\\wwwroot\\js\\account.js",
+      "SourceId": "RVAProdavnica.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.WEb\\wwwroot\\",
+      "BasePath": "_content/RVAProdavnica.Web",
+      "RelativePath": "js/account.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\account.js"
     },
     {
       "Identity": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.WEb\\wwwroot\\js\\ajaxCalls.js",
