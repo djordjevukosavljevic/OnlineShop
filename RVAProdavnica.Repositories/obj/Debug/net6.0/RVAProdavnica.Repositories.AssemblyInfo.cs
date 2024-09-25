@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RVAProdavnica.Repositories")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+881e5e895fb17f8c0fa5526b2aa84b684ce5f252")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2659fdc3ac7467afa81c60776231da9adce179f")]
 [assembly: System.Reflection.AssemblyProductAttribute("RVAProdavnica.Repositories")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RVAProdavnica.Repositories")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
