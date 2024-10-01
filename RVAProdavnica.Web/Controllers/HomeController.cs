@@ -32,13 +32,8 @@ namespace RVAProdavnica.Web.Controllers
             return View();
         }
 
-        /*
-        public IActionResult Cars() 
-        {   var results = carService.GetAll();
-        
-            return View(results);
+        public IActionResult BugReport(){
+            return View();
         }
-        */
-
     }
 }
