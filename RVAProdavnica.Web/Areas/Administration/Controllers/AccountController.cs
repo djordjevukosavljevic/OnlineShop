@@ -4,6 +4,7 @@ using RVAProdavnica.Web.Controllers;
 namespace RVAProdavnica.Web.Areas.Administration.Controllers
 {
     [Area("Administration")]
+    [Route("/")]
     public class AccountController : Controller
     {
         private readonly ILogger<HomeController> _logger;
@@ -13,21 +14,14 @@ namespace RVAProdavnica.Web.Areas.Administration.Controllers
             _logger = logger;
         }
 
+        [HttpGet]
         public IActionResult Index()
         {
             return View();
         }
 
-        public IActionResult SignUp()
-        {
-            return View();
-        }
 
-        // public IActionResult SignOut()
-        // {
-        //     return RedirectToAction("Index", "Home", new{ area = "Home" });
-        // }   
-
+    
 
     }
 }

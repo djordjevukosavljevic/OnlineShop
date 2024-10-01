@@ -3,22 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|c:\\users\\zorzezorz\\documents\\visual studio 2022 - projects\\rvashop\\rvaprodavnica.web\\areas\\administration\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|solutionrelative:rvaprodavnica.web\\areas\\administration\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|c:\\users\\zorzezorz\\documents\\visual studio 2022 - projects\\rvashop\\rvaprodavnica.web\\areas\\administration\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|solutionrelative:rvaprodavnica.web\\areas\\administration\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|c:\\users\\zorzezorz\\documents\\visual studio 2022 - projects\\rvashop\\rvaprodavnica.web\\areas\\administration\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|solutionrelative:rvaprodavnica.web\\areas\\administration\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|c:\\users\\zorzezorz\\documents\\visual studio 2022 - projects\\rvashop\\rvaprodavnica.web\\views\\shared\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|solutionrelative:rvaprodavnica.web\\views\\shared\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{39DA94A4-39E8-4958-B293-5C851B433781}|RVAProdavnica.Services\\RVAProdavnica.Services.csproj|c:\\users\\zorzezorz\\documents\\visual studio 2022 - projects\\rvashop\\rvaprodavnica.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39DA94A4-39E8-4958-B293-5C851B433781}|RVAProdavnica.Services\\RVAProdavnica.Services.csproj|solutionrelative:rvaprodavnica.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -78,60 +62,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 226,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\Areas\\Administration\\Views\\Account\\Index.cshtml",
-              "RelativeDocumentMoniker": "RVAProdavnica.Web\\Areas\\Administration\\Views\\Account\\Index.cshtml",
-              "ToolTip": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\Areas\\Administration\\Views\\Account\\Index.cshtml",
-              "RelativeToolTip": "RVAProdavnica.Web\\Areas\\Administration\\Views\\Account\\Index.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAArwEMAAACMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T15:13:40.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\Areas\\Administration\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "RVAProdavnica.Web\\Areas\\Administration\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\Areas\\Administration\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "RVAProdavnica.Web\\Areas\\Administration\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T15:13:31.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\Areas\\Administration\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "RVAProdavnica.Web\\Areas\\Administration\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\Areas\\Administration\\Controllers\\UserController.cs",
-              "RelativeToolTip": "RVAProdavnica.Web\\Areas\\Administration\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T15:13:22.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Navbar.cshtml",
-              "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\Views\\Shared\\Navbar.cshtml",
-              "RelativeDocumentMoniker": "RVAProdavnica.Web\\Views\\Shared\\Navbar.cshtml",
-              "ToolTip": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\Views\\Shared\\Navbar.cshtml",
-              "RelativeToolTip": "RVAProdavnica.Web\\Views\\Shared\\Navbar.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBYAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T15:12:42.222Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -142,32 +74,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Services\\UserService.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Services\\UserService.cs",
               "ToolTip": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Services\\UserService.cs",
               "RelativeToolTip": "RVAProdavnica.Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T00:38:36.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RVAProdavnica.Web.csproj",
+              "DocumentIndex": 2,
+              "Title": "RVAProdavnica.Web",
               "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\RVAProdavnica.Web.csproj",
               "RelativeDocumentMoniker": "RVAProdavnica.Web\\RVAProdavnica.Web.csproj",
               "ToolTip": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\RVAProdavnica.Web.csproj",
               "RelativeToolTip": "RVAProdavnica.Web\\RVAProdavnica.Web.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-01T00:38:30.502Z"
+              "WhenOpened": "2024-10-01T00:38:30.502Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Repositories\\ProductRepository.cs",
@@ -175,11 +108,12 @@
               "RelativeToolTip": "RVAProdavnica.Repositories\\ProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:38:18.947Z"
+              "WhenOpened": "2024-10-01T00:38:18.947Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Services\\ProductService.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Services\\ProductService.cs",
@@ -187,11 +121,12 @@
               "RelativeToolTip": "RVAProdavnica.Services\\ProductService.cs",
               "ViewState": "AgIAAGMAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:38:12.866Z"
+              "WhenOpened": "2024-10-01T00:38:12.866Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Repositories\\UserRepository.cs",
@@ -199,11 +134,12 @@
               "RelativeToolTip": "RVAProdavnica.Repositories\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:38:03.353Z"
+              "WhenOpened": "2024-10-01T00:38:03.353Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "UserModel.cs",
               "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Models\\UserModel.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Models\\UserModel.cs",
@@ -211,11 +147,12 @@
               "RelativeToolTip": "RVAProdavnica.Models\\UserModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:33:19.363Z"
+              "WhenOpened": "2024-10-01T00:33:19.363Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\Product.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Data\\Product.cs",
@@ -223,11 +160,12 @@
               "RelativeToolTip": "RVAProdavnica.Data\\Product.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:24:33.19Z"
+              "WhenOpened": "2024-10-01T00:24:33.19Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\DataContext.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Data\\DataContext.cs",
@@ -235,11 +173,12 @@
               "RelativeToolTip": "RVAProdavnica.Data\\DataContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:24:32.361Z"
+              "WhenOpened": "2024-10-01T00:24:32.361Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\Car.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Data\\Car.cs",
@@ -247,11 +186,12 @@
               "RelativeToolTip": "RVAProdavnica.Data\\Car.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:24:31.517Z"
+              "WhenOpened": "2024-10-01T00:24:31.517Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 10,
               "Title": "BugReport.cs",
               "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\BugReport.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Data\\BugReport.cs",
@@ -259,11 +199,12 @@
               "RelativeToolTip": "RVAProdavnica.Data\\BugReport.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:24:30.596Z"
+              "WhenOpened": "2024-10-01T00:24:30.596Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 11,
               "Title": "Base.cs",
               "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\Base.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Data\\Base.cs",
@@ -271,11 +212,12 @@
               "RelativeToolTip": "RVAProdavnica.Data\\Base.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:24:20.114Z"
+              "WhenOpened": "2024-10-01T00:24:20.114Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\User.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Data\\User.cs",
@@ -283,11 +225,12 @@
               "RelativeToolTip": "RVAProdavnica.Data\\User.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:19:23.75Z"
+              "WhenOpened": "2024-10-01T00:19:23.75Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 12,
               "Title": "ProductModel.cs",
               "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Models\\ProductModel.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Models\\ProductModel.cs",
@@ -295,7 +238,8 @@
               "RelativeToolTip": "RVAProdavnica.Models\\ProductModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T00:19:10.213Z"
+              "WhenOpened": "2024-10-01T00:19:10.213Z",
+              "EditorCaption": ""
             }
           ]
         },
