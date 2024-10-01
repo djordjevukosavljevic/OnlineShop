@@ -12,13 +12,12 @@ namespace RVAProdavnica.Services
 {
     public interface IUserService
     {
-        List<UserModel> GetAll();
 
         UserModel GetById(int id);
 
-        int? Create(UserModel obj);
+        User Create(User user);
 
-        void Update(UserModel obj);
+        //User Update(User user);
     }
 
     public class UserService : IUserService
@@ -33,26 +32,19 @@ namespace RVAProdavnica.Services
             this.mapper = mapper;
         }
 
-        public List<UserModel> GetAll()
+        public User Create(User user)
         {
-            var resultsFromDb = userRepository.GetAll();
-            var resultModels = mapper.Map<List<UserModel>>(resultsFromDb);
-            return resultModels;
+            return mapper.Map<User>(userRepository.Create(user));
         }
 
         public UserModel GetById(int id)
         {
             return mapper.Map<UserModel>(userRepository.GetOne(id));
         }
-
-        public int? Create(UserModel obj)
-        {
-            return userRepository.Create(mapper.Map<User>(obj));
-        }
-
-        public void Update(UserModel obj)
-        {
-            userRepository.Update(mapper.Map<User>(obj));
-        }
+        
+        //public User Update(User user)
+        //{
+        //    mapper.Map<User>(userRepository.Update(User);
+        //}
     }
 }
