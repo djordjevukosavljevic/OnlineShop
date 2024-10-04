@@ -21,7 +21,6 @@ namespace RVAProdavnica.Data
         public string? Email { get; set; }
         [Column("password")]
         public string Password { get; set; }
-
         public enum Role { ADMIN, PREMIUM_USER, USER }
     }
 
