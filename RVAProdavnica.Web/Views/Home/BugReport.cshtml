@@ -32,8 +32,14 @@
             <label for="exampleFormControlTextarea1">Example textarea</label>
             <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
         </div>
-        <button class="btn btn-dark" type="button">Submit</button><br>
+        <button id="submitbtn" class="btn btn-dark" type="button">Submit</button><br>
     </form>
 </body>
 
+<script type="text/javascript">
+    document.getElementById("submitbtn").onclick = function(){
+        alert("Message successfuly sent to administrator.")
+        window.location.href = 'https://localhost:7210/Home/BugReport'
+    }
+</script>
 </html>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj": {}
+    "c:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj": {
+    "c:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj",
+        "projectUniqueName": "c:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj",
         "projectName": "RVAProdavnica.Data",
-        "projectPath": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj",
+        "projectPath": "c:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj",
         "packagesPath": "C:\\Users\\zorzezorz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\obj\\",
+        "outputPath": "c:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj": {
+    "c:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj",
+        "projectUniqueName": "c:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj",
         "projectName": "RVAProdavnica.Repositories",
-        "projectPath": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj",
+        "projectPath": "c:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj",
         "packagesPath": "C:\\Users\\zorzezorz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Repositories\\obj\\",
+        "outputPath": "c:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -110,8 +110,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj": {
-                "projectPath": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj"
+              "c:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj": {
+                "projectPath": "c:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj"
               }
             }
           }
