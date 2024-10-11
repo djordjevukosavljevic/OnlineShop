@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8o6qLqCOgsA=",
+  "dgSpecHash": "0lMyHrLtRR0=",
   "success": true,
-  "projectFilePath": "c:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\RVAProdavnica.Web.csproj",
+  "projectFilePath": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\RVAProdavnica.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zorzezorz\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\zorzezorz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
