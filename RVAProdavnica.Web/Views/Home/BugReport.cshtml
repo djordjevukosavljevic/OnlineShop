@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <h1 class="danger">Bug report page</h1>
+    <h1 class="text-center" style="color: #344767;">Bug report page</h1>
     <form>
         <div class="form-group">
             <label for="exampleFormControlInput1">Email address</label>
@@ -27,7 +27,7 @@
                 <option>5</option>
             </select>
         </div>
-       
+
         <div class="form-group">
             <label for="exampleFormControlTextarea1">Example textarea</label>
             <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
@@ -37,9 +37,10 @@
 </body>
 
 <script type="text/javascript">
-    document.getElementById("submitbtn").onclick = function(){
+    document.getElementById("submitbtn").onclick = function () {
         alert("Message successfuly sent to administrator.")
         window.location.href = 'https://localhost:7210/Home/BugReport'
     }
 </script>
+
 </html>
