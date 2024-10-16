@@ -1,7 +1,8 @@
 using RVAProdavnica.Data;
 using RVAProdavnica.Repositories;
 
-namespace RVAProdavnica.Services{
+namespace RVAProdavnica.Services
+{
     public interface IImageService
     {
 
@@ -12,7 +13,7 @@ namespace RVAProdavnica.Services{
     {
         private readonly IImageRepository repository;
 
-        
-    
+
+
     }
 }

@@ -15,6 +15,7 @@ namespace RVAProdavnica.Services
         {
             CreateMap<Product, ProductModel>().ReverseMap();
             CreateMap<User, UserModel>().ReverseMap();
+            CreateMap<Image, ImageModel>().ReverseMap();
             CreateMap<Car, CarModel>().ReverseMap();
             CreateMap<BugReport, BugReportModel>().ReverseMap();
             //.ForMember(dest => dest.Description, opt => opt.MapFrom(src => src.Description));
