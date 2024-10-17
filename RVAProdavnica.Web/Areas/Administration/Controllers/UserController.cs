@@ -11,7 +11,7 @@ namespace RVAProdavnica.Web.Areas.Administration.Controllers
 {
     [Area("Administration")]
     [Route("/Administration/[controller]/[action]/{id}")]
-    public class UserController
+    public class UserController : Controller
     {
         private readonly DbContext _dbContext;
 
@@ -22,11 +22,15 @@ namespace RVAProdavnica.Web.Areas.Administration.Controllers
             _dbContext = dbContext;
             this.userService = userService;
         }
-        /*
-        public IActionResult UserIndex()
+
+        [HttpGet]
+        public IActionResult Login()
         {
             return View();
         }
-        */
+
+     
+
+
     }
 }
