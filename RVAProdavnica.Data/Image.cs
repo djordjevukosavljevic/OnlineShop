@@ -8,7 +8,8 @@ namespace RVAProdavnica.Data{
         public string Name {get; set;}
         [Column("size")]
         public double Size {get; set;}
-        [Column("url")]
-        public string Url {get; set;}  
+        [Column("path")]
+        public string Path {get; set;}  
+        
     }
 }
