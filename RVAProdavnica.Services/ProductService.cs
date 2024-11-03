@@ -12,14 +12,14 @@ namespace RVAProdavnica.Services
         ProductModel getById(int id);
 
         ProductModel getByPrice(double Price);
-          
+
         List<ProductModel> TableSearch(int pageNumber, int rowsPerPage, string search);
 
         int? Create(ProductModel obj);
 
         void Update(ProductModel obj);
 
-        void Delete(Product obj);  
+        void Delete(Product obj);
 
     }
 
@@ -49,14 +49,13 @@ namespace RVAProdavnica.Services
         ///     Read
         /// </summary>
         /// <returns></returns>
-        /// 
         public List<ProductModel> GetAll()
         {
             var resultFromDb = productRepository.GetAll();
             var resultModels = mapper.Map<List<ProductModel>>(resultFromDb);
             return resultModels;
         }
-        
+
         /// <summary>
         ///     Read by Id
         /// </summary>
@@ -96,14 +95,14 @@ namespace RVAProdavnica.Services
         /// <returns></returns>
         public List<ProductModel> TableSearch(int pageNumber, int rowsPerPage, string search)
         {
-            if(rowsPerPage > 100)
+            if (rowsPerPage > 100)
             {
                 rowsPerPage = 100;
             }
 
             var resultFromDb = productRepository.TableSearch(pageNumber, rowsPerPage, $"WHERE Name like '%{search}%' or Description like '%{search}%'", "");
             var resultModels = mapper.Map<List<ProductModel>>(resultFromDb);
-            
+
             return resultModels;
         }
 
@@ -112,4 +111,4 @@ namespace RVAProdavnica.Services
             return mapper.Map<ProductModel>(productRepository.GetByPrice(Price));
         }
     }
-} 
+}

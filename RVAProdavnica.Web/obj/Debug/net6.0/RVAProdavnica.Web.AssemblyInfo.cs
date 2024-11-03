@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RVAProdavnica.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e36e0199f25e640046a84f9197d802ebadb50fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a26bec5bfa0a5f6085b8ce7138b5f7d4325a5d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("RVAProdavnica.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RVAProdavnica.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

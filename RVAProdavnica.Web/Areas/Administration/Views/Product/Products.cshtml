@@ -22,7 +22,9 @@
         <div class="card my-4">
             <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
                 <div class="bg-gradient-dark border-radius-lg pt-4 pb-3">
-                    <a asp-action="Create" class="text-white text-center me-2 d-flex align-items-center justify-content-center">Add new product</a>
+                    <a asp-action="Create"
+                        class="text-white text-center me-2 d-flex align-items-center justify-content-center">Add new
+                        product</a>
                 </div>
             </div>
             <div class="card-body px-0 pb-2">
@@ -30,9 +32,13 @@
                     <table class="table align-items-center mb-0" id="product-panel">
                         <thead>
                             <tr>
-                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Name</th>
-                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">Price</th>
-                                <th class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Status</th>
+                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">Name
+                                </th>
+                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder opacity-7 ps-2">
+                                    Price</th>
+                                <th
+                                    class="text-center text-uppercase text-secondary text-xxs font-weight-bolder opacity-7">
+                                    Status</th>
                             </tr>
                         </thead>
                         <tbody id="product-panel">
@@ -41,53 +47,56 @@
                 </div>
             </div>
             <div class="row d-flex justify-content-center">
-                <button id="load-older" class="nav-link text-white active bg-gradient-dark w-25 ms-3">Load previous page</button>
-                <button id="load-more" class="nav-link text-white active bg-gradient-dark w-25 ms-3">Load next page</button>
+                <button id="load-older" class="nav-link text-white active bg-gradient-dark w-25 ms-3">Load previous
+                    page</button>
+                <button id="load-more" class="nav-link text-white active bg-gradient-dark w-25 ms-3">Load next
+                    page</button>
             </div>
         </div>
     </div>
 </div>
 
-@section Scripts{
+@section Scripts {
     <script src="~/js/ajaxcalls.js"></script>
     <script>
         var pageNumber = 1;
-        var rowsPerPage = 5;    
+        var rowsPerPage = 5;
         $(document).ready(function () {
-                var url = "/Administration/Product/Rows";
-                var dataObject = $("#product-panel");
-                var search = $("#search").val();
-                var data = { "pageNumber": pageNumber, "rowsPerPage": rowsPerPage, "search": search }
+            var url = "/Administration/Product/Rows";
+            var dataObject = $("#product-panel");
+            var search = $("#search").val();
+            var data = { "pageNumber": pageNumber, "rowsPerPage": rowsPerPage, "search": search }
+            TableSearch(dataObject, url, data);
+
+            $("#load-more").click(function () {
+                dataObject.empty();
+                pageNumber++;
+                search = $("#search").val();
+                data = { "pageNumber": pageNumber, "rowsPerPage": rowsPerPage, "search": search }
                 TableSearch(dataObject, url, data);
-                
-                $("#load-more").click(function () {
-                    dataObject.empty();
-                    pageNumber++;
-                    search = $("#search").val();
-                    data = {"pageNumber": pageNumber, "rowsPerPage": rowsPerPage, "search": search }  
-                    TableSearch(dataObject, url, data);
-                });
+            });
 
-                $("#load-older").click(function () {
-                    dataObject.empty();
-                    if(pageNumber <= 1){
-                        pageNumber = 1;
-                    } else {
-                        pageNumber--;
-                    }
-                    search = $("#search").val();
-                    data = { "pageNumber": pageNumber, "rowsPerPage": rowsPerPage, "search": search }
-                    TableSearch(dataObject, url, data);
-                });
-
-                $("#search").keyup(function () {
-                    dataObject.empty();
-                    
+            $("#load-older").click(function () {
+                dataObject.empty();
+                if (pageNumber <= 1) {
                     pageNumber = 1;
-                    search = $("#search").val();
-                    data = { "pageNumber": pageNumber, "rowsPerPage": rowsPerPage, "search": search };
-                    TableSearch(dataObject, url, data);
-                });
+                } else {
+                    pageNumber--;
+                }
+                search = $("#search").val();
+                data = { "pageNumber": pageNumber, "rowsPerPage": rowsPerPage, "search": search }
+                TableSearch(dataObject, url, data);
+            });
+
+            $("#search").keyup(function () {
+                dataObject.empty();
+
+                pageNumber = 1;
+                search = $("#search").val();
+                data = { "pageNumber": pageNumber, "rowsPerPage": rowsPerPage, "search": search };
+                TableSearch(dataObject, url, data);
+
+            });
         });
     </script>
 }

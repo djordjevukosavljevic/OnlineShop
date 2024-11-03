@@ -22,6 +22,6 @@ namespace RVAProdavnica.Models
         [Required]
         public double Price { get; set; }
 
-        public string? imagePath { get; set; }
+        public string imagePath { get; set; }
     }
 }
