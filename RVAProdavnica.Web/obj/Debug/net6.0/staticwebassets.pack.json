@@ -249,10 +249,6 @@
       "PackagePath": "staticwebassets\\google-fonts\\Roboto.css"
     },
     {
-      "Id": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\wwwroot\\js\\account.js",
-      "PackagePath": "staticwebassets\\js\\account.js"
-    },
-    {
       "Id": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\wwwroot\\js\\ajaxCalls.js",
       "PackagePath": "staticwebassets\\js\\ajaxCalls.js"
     },
@@ -655,6 +651,10 @@
     {
       "Id": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\world.js",
       "PackagePath": "staticwebassets\\js\\plugins\\world.js"
+    },
+    {
+      "Id": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\wwwroot\\js\\registration.js",
+      "PackagePath": "staticwebassets\\js\\registration.js"
     },
     {
       "Id": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\LICENSE",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HEvfVAC1+x/x9WMWP7WnEH/47h+TxC7jxOGAHXsJzU4=",
+  "Hash": "Y7SNpJYnj60mo3iL+QHWLE9CLJQp9EMjIscv4BGFaYA=",
   "Source": "RVAProdavnica.Web",
   "BasePath": "_content/RVAProdavnica.Web",
   "Mode": "Default",
@@ -2354,25 +2354,6 @@
       "OriginalItemSpec": "wwwroot\\google-fonts\\Roboto.css"
     },
     {
-      "Identity": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\wwwroot\\js\\account.js",
-      "SourceId": "RVAProdavnica.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\wwwroot\\",
-      "BasePath": "_content/RVAProdavnica.Web",
-      "RelativePath": "js/account.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\account.js"
-    },
-    {
       "Identity": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\wwwroot\\js\\ajaxCalls.js",
       "SourceId": "RVAProdavnica.Web",
       "SourceType": "Discovered",
@@ -4290,6 +4271,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\plugins\\world.js"
+    },
+    {
+      "Identity": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\wwwroot\\js\\registration.js",
+      "SourceId": "RVAProdavnica.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\wwwroot\\",
+      "BasePath": "_content/RVAProdavnica.Web",
+      "RelativePath": "js/registration.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\registration.js"
     },
     {
       "Identity": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",

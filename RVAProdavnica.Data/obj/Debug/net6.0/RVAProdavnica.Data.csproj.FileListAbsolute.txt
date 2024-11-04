@@ -43,8 +43,8 @@ C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica
 C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.AssemblyInfoInputs.cache
 C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.AssemblyInfo.cs
 C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.csproj.CoreCompileInputs.cache
+C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.sourcelink.json
 C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.dll
 C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\refint\RVAProdavnica.Data.dll
 C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.pdb
 C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\ref\RVAProdavnica.Data.dll
-c:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.sourcelink.json
