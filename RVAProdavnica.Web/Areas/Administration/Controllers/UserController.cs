@@ -31,12 +31,7 @@ namespace RVAProdavnica.Web.Areas.Administration.Controllers
             return View();
         }
 
-        // [HttpGet("/{id}")]
-        public IActionResult getUserById(int id)
-        {
-            var result = userService.GetById(id);
-            return View(result);
-        }
+      
 
     }
 }

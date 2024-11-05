@@ -17,7 +17,8 @@ namespace RVAProdavnica.Repositories
     
     public class UserRepository : BaseRepository<User>, IUserRepository
     {
-        public UserRepository(IConfiguration configuration) : base(configuration)        {
+        public UserRepository(IConfiguration configuration) : base(configuration)  
+        {      
 
         }
     
