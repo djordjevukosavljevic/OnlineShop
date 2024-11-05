@@ -35,5 +35,10 @@ namespace RVAProdavnica.Web.Controllers
         public IActionResult BugReport(){
             return View();
         }
+
+        public IActionResult Registration()
+        {
+            return View();
+        }
     }
 }
