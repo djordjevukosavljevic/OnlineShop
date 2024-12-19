@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Models\\RVAProdavnica.Models.csproj": {}
+    "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Models\\RVAProdavnica.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Models\\RVAProdavnica.Models.csproj": {
+    "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Models\\RVAProdavnica.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Models\\RVAProdavnica.Models.csproj",
+        "projectUniqueName": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Models\\RVAProdavnica.Models.csproj",
         "projectName": "RVAProdavnica.Models",
-        "projectPath": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Models\\RVAProdavnica.Models.csproj",
-        "packagesPath": "C:\\Users\\zorzezorz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Models\\obj\\",
+        "projectPath": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Models\\RVAProdavnica.Models.csproj",
+        "packagesPath": "C:\\Users\\djord\\.nuget\\packages\\",
+        "outputPath": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zorzezorz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\djord\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -70,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

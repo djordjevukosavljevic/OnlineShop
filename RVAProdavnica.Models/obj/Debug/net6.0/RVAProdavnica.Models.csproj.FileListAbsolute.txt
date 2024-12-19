@@ -45,3 +45,27 @@ C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica
 C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Models\obj\Debug\net6.0\refint\RVAProdavnica.Models.dll
 C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Models\obj\Debug\net6.0\RVAProdavnica.Models.pdb
 C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Models\obj\Debug\net6.0\ref\RVAProdavnica.Models.dll
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Models\bin\Debug\net6.0\RVAProdavnica.Models.deps.json
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Models\bin\Debug\net6.0\RVAProdavnica.Models.dll
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Models\bin\Debug\net6.0\RVAProdavnica.Models.pdb
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Models\obj\Debug\net6.0\RVAProdavnica.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Models\obj\Debug\net6.0\RVAProdavnica.Models.AssemblyInfoInputs.cache
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Models\obj\Debug\net6.0\RVAProdavnica.Models.AssemblyInfo.cs
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Models\obj\Debug\net6.0\RVAProdavnica.Models.csproj.CoreCompileInputs.cache
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Models\obj\Debug\net6.0\RVAProdavnica.Models.sourcelink.json
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Models\obj\Debug\net6.0\RVAProdavnica.Models.dll
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Models\obj\Debug\net6.0\refint\RVAProdavnica.Models.dll
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Models\obj\Debug\net6.0\RVAProdavnica.Models.pdb
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Models\obj\Debug\net6.0\ref\RVAProdavnica.Models.dll
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Models\bin\Debug\net6.0\RVAProdavnica.Models.deps.json
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Models\bin\Debug\net6.0\RVAProdavnica.Models.dll
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Models\bin\Debug\net6.0\RVAProdavnica.Models.pdb
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Models\obj\Debug\net6.0\RVAProdavnica.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Models\obj\Debug\net6.0\RVAProdavnica.Models.AssemblyInfoInputs.cache
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Models\obj\Debug\net6.0\RVAProdavnica.Models.AssemblyInfo.cs
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Models\obj\Debug\net6.0\RVAProdavnica.Models.csproj.CoreCompileInputs.cache
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Models\obj\Debug\net6.0\RVAProdavnica.Models.sourcelink.json
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Models\obj\Debug\net6.0\RVAProdavnica.Models.dll
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Models\obj\Debug\net6.0\refint\RVAProdavnica.Models.dll
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Models\obj\Debug\net6.0\RVAProdavnica.Models.pdb
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Models\obj\Debug\net6.0\ref\RVAProdavnica.Models.dll

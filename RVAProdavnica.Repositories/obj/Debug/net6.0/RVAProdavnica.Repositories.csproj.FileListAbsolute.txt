@@ -60,3 +60,35 @@ C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica
 C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Repositories\obj\Debug\net6.0\refint\RVAProdavnica.Repositories.dll
 C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Repositories\obj\Debug\net6.0\RVAProdavnica.Repositories.pdb
 C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Repositories\obj\Debug\net6.0\ref\RVAProdavnica.Repositories.dll
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Repositories\bin\Debug\net6.0\RVAProdavnica.Repositories.deps.json
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Repositories\bin\Debug\net6.0\RVAProdavnica.Repositories.dll
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Repositories\bin\Debug\net6.0\RVAProdavnica.Repositories.pdb
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Repositories\bin\Debug\net6.0\RVAProdavnica.Data.dll
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Repositories\bin\Debug\net6.0\RVAProdavnica.Data.pdb
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\RVAProdavnica.Repositories.csproj.AssemblyReference.cache
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\RVAProdavnica.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\RVAProdavnica.Repositories.AssemblyInfoInputs.cache
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\RVAProdavnica.Repositories.AssemblyInfo.cs
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\RVAProdavnica.Repositories.csproj.CoreCompileInputs.cache
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\RVAProdavnica.Repositories.sourcelink.json
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\RVAProda.E7DBA465.Up2Date
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\RVAProdavnica.Repositories.dll
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\refint\RVAProdavnica.Repositories.dll
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\RVAProdavnica.Repositories.pdb
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\ref\RVAProdavnica.Repositories.dll
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Repositories\bin\Debug\net6.0\RVAProdavnica.Repositories.deps.json
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Repositories\bin\Debug\net6.0\RVAProdavnica.Repositories.dll
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Repositories\bin\Debug\net6.0\RVAProdavnica.Repositories.pdb
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Repositories\bin\Debug\net6.0\RVAProdavnica.Data.dll
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Repositories\bin\Debug\net6.0\RVAProdavnica.Data.pdb
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\RVAProdavnica.Repositories.csproj.AssemblyReference.cache
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\RVAProdavnica.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\RVAProdavnica.Repositories.AssemblyInfoInputs.cache
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\RVAProdavnica.Repositories.AssemblyInfo.cs
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\RVAProdavnica.Repositories.csproj.CoreCompileInputs.cache
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\RVAProdavnica.Repositories.sourcelink.json
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\RVAProda.E7DBA465.Up2Date
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\RVAProdavnica.Repositories.dll
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\refint\RVAProdavnica.Repositories.dll
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\RVAProdavnica.Repositories.pdb
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Repositories\obj\Debug\net6.0\ref\RVAProdavnica.Repositories.dll

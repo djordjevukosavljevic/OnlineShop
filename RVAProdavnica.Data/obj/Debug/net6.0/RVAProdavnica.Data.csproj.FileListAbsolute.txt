@@ -48,3 +48,29 @@ C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica
 C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\refint\RVAProdavnica.Data.dll
 C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.pdb
 C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\ref\RVAProdavnica.Data.dll
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.deps.json
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.dll
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.pdb
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.csproj.AssemblyReference.cache
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.AssemblyInfoInputs.cache
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.AssemblyInfo.cs
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.csproj.CoreCompileInputs.cache
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.sourcelink.json
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.dll
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\refint\RVAProdavnica.Data.dll
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.pdb
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\ref\RVAProdavnica.Data.dll
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.deps.json
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.dll
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.pdb
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.csproj.AssemblyReference.cache
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.AssemblyInfoInputs.cache
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.AssemblyInfo.cs
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.csproj.CoreCompileInputs.cache
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.sourcelink.json
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.dll
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\refint\RVAProdavnica.Data.dll
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.pdb
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\ref\RVAProdavnica.Data.dll

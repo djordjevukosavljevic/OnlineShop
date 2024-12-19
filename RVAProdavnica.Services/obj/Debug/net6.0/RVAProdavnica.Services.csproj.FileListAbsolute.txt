@@ -76,3 +76,43 @@ C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica
 C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Services\obj\Debug\net6.0\refint\RVAProdavnica.Services.dll
 C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Services\obj\Debug\net6.0\RVAProdavnica.Services.pdb
 C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Services\obj\Debug\net6.0\ref\RVAProdavnica.Services.dll
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Services\bin\Debug\net6.0\RVAProdavnica.Services.deps.json
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Services\bin\Debug\net6.0\RVAProdavnica.Services.dll
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Services\bin\Debug\net6.0\RVAProdavnica.Services.pdb
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Services\bin\Debug\net6.0\RVAProdavnica.Data.dll
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Services\bin\Debug\net6.0\RVAProdavnica.Models.dll
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Services\bin\Debug\net6.0\RVAProdavnica.Repositories.dll
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Services\bin\Debug\net6.0\RVAProdavnica.Models.pdb
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Services\bin\Debug\net6.0\RVAProdavnica.Repositories.pdb
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Services\bin\Debug\net6.0\RVAProdavnica.Data.pdb
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\RVAProdavnica.Services.csproj.AssemblyReference.cache
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\RVAProdavnica.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\RVAProdavnica.Services.AssemblyInfoInputs.cache
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\RVAProdavnica.Services.AssemblyInfo.cs
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\RVAProdavnica.Services.csproj.CoreCompileInputs.cache
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\RVAProdavnica.Services.sourcelink.json
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\RVAProda.D1ED65B2.Up2Date
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\RVAProdavnica.Services.dll
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\refint\RVAProdavnica.Services.dll
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\RVAProdavnica.Services.pdb
+E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\ref\RVAProdavnica.Services.dll
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Services\bin\Debug\net6.0\RVAProdavnica.Services.deps.json
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Services\bin\Debug\net6.0\RVAProdavnica.Services.dll
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Services\bin\Debug\net6.0\RVAProdavnica.Services.pdb
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Services\bin\Debug\net6.0\RVAProdavnica.Data.dll
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Services\bin\Debug\net6.0\RVAProdavnica.Models.dll
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Services\bin\Debug\net6.0\RVAProdavnica.Repositories.dll
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Services\bin\Debug\net6.0\RVAProdavnica.Models.pdb
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Services\bin\Debug\net6.0\RVAProdavnica.Repositories.pdb
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Services\bin\Debug\net6.0\RVAProdavnica.Data.pdb
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\RVAProdavnica.Services.csproj.AssemblyReference.cache
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\RVAProdavnica.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\RVAProdavnica.Services.AssemblyInfoInputs.cache
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\RVAProdavnica.Services.AssemblyInfo.cs
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\RVAProdavnica.Services.csproj.CoreCompileInputs.cache
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\RVAProdavnica.Services.sourcelink.json
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\RVAProda.D1ED65B2.Up2Date
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\RVAProdavnica.Services.dll
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\refint\RVAProdavnica.Services.dll
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\RVAProdavnica.Services.pdb
+E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Services\obj\Debug\net6.0\ref\RVAProdavnica.Services.dll

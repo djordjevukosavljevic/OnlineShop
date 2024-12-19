@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cVQPWJczAvg=",
+  "dgSpecHash": "XBUF3PDJWpA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\zorzezorz\\Documents\\Visual Studio 2022 - Projects\\RVAShop\\RVAProdavnica.Models\\RVAProdavnica.Models.csproj",
+  "projectFilePath": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Models\\RVAProdavnica.Models.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\zorzezorz\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512"
+    "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512"
   ],
   "logs": []
 }
