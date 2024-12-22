@@ -1,76 +1,85 @@
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAProdavnica\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.deps.json
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAProdavnica\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.dll
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAProdavnica\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.pdb
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAProdavnica\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.csproj.AssemblyReference.cache
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAProdavnica\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAProdavnica\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.AssemblyInfoInputs.cache
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAProdavnica\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.AssemblyInfo.cs
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAProdavnica\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAProdavnica\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.dll
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAProdavnica\RVAProdavnica.Data\obj\Debug\net6.0\refint\RVAProdavnica.Data.dll
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAProdavnica\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.pdb
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAProdavnica\RVAProdavnica.Data\obj\Debug\net6.0\ref\RVAProdavnica.Data.dll
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.deps.json
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.dll
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.pdb
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.csproj.AssemblyReference.cache
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.AssemblyInfoInputs.cache
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.AssemblyInfo.cs
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.dll
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\refint\RVAProdavnica.Data.dll
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.pdb
-C:\Users\Lenovo\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\ref\RVAProdavnica.Data.dll
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.deps.json
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.dll
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.pdb
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.csproj.AssemblyReference.cache
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.AssemblyInfoInputs.cache
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.AssemblyInfo.cs
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.csproj.CoreCompileInputs.cache
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.sourcelink.json
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.dll
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAProdavnica.Data\obj\Debug\net6.0\refint\RVAProdavnica.Data.dll
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.pdb
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAProdavnica.Data\obj\Debug\net6.0\ref\RVAProdavnica.Data.dll
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.deps.json
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.dll
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.pdb
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.csproj.AssemblyReference.cache
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.AssemblyInfoInputs.cache
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.AssemblyInfo.cs
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.csproj.CoreCompileInputs.cache
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.sourcelink.json
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.dll
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\refint\RVAProdavnica.Data.dll
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.pdb
-C:\Users\zorzezorz\Documents\Visual Studio 2022 - Projects\RVAShop\RVAProdavnica.Data\obj\Debug\net6.0\ref\RVAProdavnica.Data.dll
-E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.deps.json
-E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.dll
-E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.pdb
-E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.csproj.AssemblyReference.cache
-E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.GeneratedMSBuildEditorConfig.editorconfig
-E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.AssemblyInfoInputs.cache
-E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.AssemblyInfo.cs
-E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.csproj.CoreCompileInputs.cache
-E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.sourcelink.json
-E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.dll
-E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\refint\RVAProdavnica.Data.dll
-E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.pdb
-E:\zorzezorz\Dev\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\ref\RVAProdavnica.Data.dll
-E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.deps.json
-E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.dll
-E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\bin\Debug\net6.0\RVAProdavnica.Data.pdb
-E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.csproj.AssemblyReference.cache
-E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.GeneratedMSBuildEditorConfig.editorconfig
-E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.AssemblyInfoInputs.cache
-E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.AssemblyInfo.cs
-E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.csproj.CoreCompileInputs.cache
-E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.sourcelink.json
-E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.dll
-E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\refint\RVAProdavnica.Data.dll
-E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\RVAProdavnica.Data.pdb
-E:\zorzezorz\Dev\dotnet\OnlineShop\RVAProdavnica.Data\obj\Debug\net6.0\ref\RVAProdavnica.Data.dll
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAProdavnica/RVAProdavnica.Data/bin/Debug/net6.0/RVAProdavnica.Data.deps.json
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAProdavnica/RVAProdavnica.Data/bin/Debug/net6.0/RVAProdavnica.Data.dll
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAProdavnica/RVAProdavnica.Data/bin/Debug/net6.0/RVAProdavnica.Data.pdb
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAProdavnica/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.csproj.AssemblyReference.cache
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAProdavnica/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAProdavnica/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.AssemblyInfoInputs.cache
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAProdavnica/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.AssemblyInfo.cs
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAProdavnica/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.csproj.CoreCompileInputs.cache
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAProdavnica/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.dll
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAProdavnica/RVAProdavnica.Data/obj/Debug/net6.0/refint/RVAProdavnica.Data.dll
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAProdavnica/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.pdb
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAProdavnica/RVAProdavnica.Data/obj/Debug/net6.0/ref/RVAProdavnica.Data.dll
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/bin/Debug/net6.0/RVAProdavnica.Data.deps.json
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/bin/Debug/net6.0/RVAProdavnica.Data.dll
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/bin/Debug/net6.0/RVAProdavnica.Data.pdb
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.csproj.AssemblyReference.cache
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.AssemblyInfoInputs.cache
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.AssemblyInfo.cs
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.csproj.CoreCompileInputs.cache
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.dll
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/obj/Debug/net6.0/refint/RVAProdavnica.Data.dll
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.pdb
+C:/Users/Lenovo/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/obj/Debug/net6.0/ref/RVAProdavnica.Data.dll
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAProdavnica.Data/bin/Debug/net6.0/RVAProdavnica.Data.deps.json
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAProdavnica.Data/bin/Debug/net6.0/RVAProdavnica.Data.dll
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAProdavnica.Data/bin/Debug/net6.0/RVAProdavnica.Data.pdb
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.csproj.AssemblyReference.cache
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.AssemblyInfoInputs.cache
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.AssemblyInfo.cs
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.csproj.CoreCompileInputs.cache
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.sourcelink.json
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.dll
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAProdavnica.Data/obj/Debug/net6.0/refint/RVAProdavnica.Data.dll
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.pdb
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAProdavnica.Data/obj/Debug/net6.0/ref/RVAProdavnica.Data.dll
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/bin/Debug/net6.0/RVAProdavnica.Data.deps.json
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/bin/Debug/net6.0/RVAProdavnica.Data.dll
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/bin/Debug/net6.0/RVAProdavnica.Data.pdb
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.csproj.AssemblyReference.cache
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.AssemblyInfoInputs.cache
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.AssemblyInfo.cs
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.csproj.CoreCompileInputs.cache
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.sourcelink.json
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.dll
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/obj/Debug/net6.0/refint/RVAProdavnica.Data.dll
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.pdb
+C:/Users/zorzezorz/Documents/Visual Studio 2022 - Projects/RVAShop/RVAProdavnica.Data/obj/Debug/net6.0/ref/RVAProdavnica.Data.dll
+E:/zorzezorz/Dev/OnlineShop/RVAProdavnica.Data/bin/Debug/net6.0/RVAProdavnica.Data.deps.json
+E:/zorzezorz/Dev/OnlineShop/RVAProdavnica.Data/bin/Debug/net6.0/RVAProdavnica.Data.dll
+E:/zorzezorz/Dev/OnlineShop/RVAProdavnica.Data/bin/Debug/net6.0/RVAProdavnica.Data.pdb
+E:/zorzezorz/Dev/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.csproj.AssemblyReference.cache
+E:/zorzezorz/Dev/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:/zorzezorz/Dev/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.AssemblyInfoInputs.cache
+E:/zorzezorz/Dev/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.AssemblyInfo.cs
+E:/zorzezorz/Dev/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.csproj.CoreCompileInputs.cache
+E:/zorzezorz/Dev/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.sourcelink.json
+E:/zorzezorz/Dev/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.dll
+E:/zorzezorz/Dev/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/refint/RVAProdavnica.Data.dll
+E:/zorzezorz/Dev/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.pdb
+E:/zorzezorz/Dev/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/ref/RVAProdavnica.Data.dll
+E:/zorzezorz/Dev/dotnet/OnlineShop/RVAProdavnica.Data/bin/Debug/net6.0/RVAProdavnica.Data.deps.json
+E:/zorzezorz/Dev/dotnet/OnlineShop/RVAProdavnica.Data/bin/Debug/net6.0/RVAProdavnica.Data.dll
+E:/zorzezorz/Dev/dotnet/OnlineShop/RVAProdavnica.Data/bin/Debug/net6.0/RVAProdavnica.Data.pdb
+E:/zorzezorz/Dev/dotnet/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.csproj.AssemblyReference.cache
+E:/zorzezorz/Dev/dotnet/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:/zorzezorz/Dev/dotnet/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.AssemblyInfoInputs.cache
+E:/zorzezorz/Dev/dotnet/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.AssemblyInfo.cs
+E:/zorzezorz/Dev/dotnet/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.csproj.CoreCompileInputs.cache
+E:/zorzezorz/Dev/dotnet/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.sourcelink.json
+E:/zorzezorz/Dev/dotnet/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.dll
+E:/zorzezorz/Dev/dotnet/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/refint/RVAProdavnica.Data.dll
+E:/zorzezorz/Dev/dotnet/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.pdb
+E:/zorzezorz/Dev/dotnet/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/ref/RVAProdavnica.Data.dll
+/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.csproj.AssemblyReference.cache
+/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.AssemblyInfoInputs.cache
+/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.AssemblyInfo.cs
+/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.csproj.CoreCompileInputs.cache
+/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.sourcelink.json
+/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.dll
+/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/refint/RVAProdavnica.Data.dll
+/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Data/obj/Debug/net6.0/RVAProdavnica.Data.pdb

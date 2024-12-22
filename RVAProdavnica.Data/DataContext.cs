@@ -23,10 +23,9 @@ namespace RVAProdavnica.Data
 
         public DbSet<BugReport> BugReports { get; set; }
 
-
+        public DbSet<Message> Messages {get; set;}
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-
             modelBuilder.Entity<Product>();
             modelBuilder.Entity<Image>();
             modelBuilder.Entity<User>();

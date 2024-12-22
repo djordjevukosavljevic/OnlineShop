@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj": {}
+    "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Repositories/RVAProdavnica.Repositories.csproj": {}
   },
   "projects": {
-    "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj": {
+    "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Data/RVAProdavnica.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj",
+        "projectUniqueName": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Data/RVAProdavnica.Data.csproj",
         "projectName": "RVAProdavnica.Data",
-        "projectPath": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj",
-        "packagesPath": "C:\\Users\\djord\\.nuget\\packages\\",
-        "outputPath": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Data\\obj\\",
+        "projectPath": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Data/RVAProdavnica.Data.csproj",
+        "packagesPath": "/home/zorzezorz/.nuget/packages/",
+        "outputPath": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\djord\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/zorzezorz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -67,26 +67,36 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj": {
+    "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Repositories/RVAProdavnica.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj",
+        "projectUniqueName": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Repositories/RVAProdavnica.Repositories.csproj",
         "projectName": "RVAProdavnica.Repositories",
-        "projectPath": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj",
-        "packagesPath": "C:\\Users\\djord\\.nuget\\packages\\",
-        "outputPath": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Repositories\\obj\\",
+        "projectPath": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Repositories/RVAProdavnica.Repositories.csproj",
+        "packagesPath": "/home/zorzezorz/.nuget/packages/",
+        "outputPath": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Repositories/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\djord\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/zorzezorz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -98,8 +108,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj": {
-                "projectPath": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj"
+              "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Data/RVAProdavnica.Data.csproj": {
+                "projectPath": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Data/RVAProdavnica.Data.csproj"
               }
             }
           }
@@ -151,12 +161,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/RuntimeIdentifierGraph.json"
         }
       }
     }

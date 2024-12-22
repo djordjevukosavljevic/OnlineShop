@@ -10,11 +10,11 @@
         "projectUniqueName": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Data/RVAProdavnica.Data.csproj",
         "projectName": "RVAProdavnica.Data",
         "projectPath": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Data/RVAProdavnica.Data.csproj",
-        "packagesPath": "/root/.nuget/packages/",
+        "packagesPath": "/home/zorzezorz/.nuget/packages/",
         "outputPath": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/zorzezorz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -92,11 +92,11 @@
         "projectUniqueName": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Models/RVAProdavnica.Models.csproj",
         "projectName": "RVAProdavnica.Models",
         "projectPath": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Models/RVAProdavnica.Models.csproj",
-        "packagesPath": "/root/.nuget/packages/",
+        "packagesPath": "/home/zorzezorz/.nuget/packages/",
         "outputPath": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Models/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/zorzezorz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -166,11 +166,11 @@
         "projectUniqueName": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Repositories/RVAProdavnica.Repositories.csproj",
         "projectName": "RVAProdavnica.Repositories",
         "projectPath": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Repositories/RVAProdavnica.Repositories.csproj",
-        "packagesPath": "/root/.nuget/packages/",
+        "packagesPath": "/home/zorzezorz/.nuget/packages/",
         "outputPath": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Repositories/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/zorzezorz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -260,11 +260,11 @@
         "projectUniqueName": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Services/RVAProdavnica.Services.csproj",
         "projectName": "RVAProdavnica.Services",
         "projectPath": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Services/RVAProdavnica.Services.csproj",
-        "packagesPath": "/root/.nuget/packages/",
+        "packagesPath": "/home/zorzezorz/.nuget/packages/",
         "outputPath": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Services/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/zorzezorz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -345,11 +345,11 @@
         "projectUniqueName": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/RVAProdavnica.Web.csproj",
         "projectName": "RVAProdavnica.Web",
         "projectPath": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/RVAProdavnica.Web.csproj",
-        "packagesPath": "/root/.nuget/packages/",
+        "packagesPath": "/home/zorzezorz/.nuget/packages/",
         "outputPath": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/zorzezorz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
