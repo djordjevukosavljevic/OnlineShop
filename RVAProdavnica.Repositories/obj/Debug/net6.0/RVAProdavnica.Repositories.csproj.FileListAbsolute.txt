@@ -95,3 +95,11 @@ E:/zorzezorz/Dev/dotnet/OnlineShop/RVAProdavnica.Repositories/obj/Debug/net6.0/r
 /home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Repositories/obj/Debug/net6.0/RVAProdavnica.Repositories.dll
 /home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Repositories/obj/Debug/net6.0/refint/RVAProdavnica.Repositories.dll
 /home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Repositories/obj/Debug/net6.0/RVAProdavnica.Repositories.pdb
+/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Repositories/bin/Debug/net6.0/RVAProdavnica.Data.dll
+/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Repositories/bin/Debug/net6.0/RVAProdavnica.Data.pdb
+/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Repositories/obj/Debug/net6.0/RVAProdavnica.Repositories.csproj.AssemblyReference.cache
+/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Repositories/obj/Debug/net6.0/RVAProdavnica.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Repositories/obj/Debug/net6.0/RVAProdavnica.Repositories.AssemblyInfoInputs.cache
+/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Repositories/obj/Debug/net6.0/RVAProdavnica.Repositories.AssemblyInfo.cs
+/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Repositories/obj/Debug/net6.0/RVAProdavnica.Repositories.csproj.CoreCompileInputs.cache
+/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Repositories/obj/Debug/net6.0/RVAProdavnica.Repositories.sourcelink.json
