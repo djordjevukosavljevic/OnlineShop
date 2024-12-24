@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "j9kakfqxy8M=",
+  "dgSpecHash": "AwVS9nAYc8Q=",
   "success": true,
   "projectFilePath": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Models/RVAProdavnica.Models.csproj",
   "expectedPackageFiles": [
-    "/home/zorzezorz/.nuget/packages/bootstrap/5.2.3/bootstrap.5.2.3.nupkg.sha512",
-    "/home/zorzezorz/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "/home/zorzezorz/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+    "/root/.nuget/packages/bootstrap/5.2.3/bootstrap.5.2.3.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
   ],
   "logs": []
 }

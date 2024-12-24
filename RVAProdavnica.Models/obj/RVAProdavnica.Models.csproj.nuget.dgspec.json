@@ -10,11 +10,11 @@
         "projectUniqueName": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Models/RVAProdavnica.Models.csproj",
         "projectName": "RVAProdavnica.Models",
         "projectPath": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Models/RVAProdavnica.Models.csproj",
-        "packagesPath": "/home/zorzezorz/.nuget/packages/",
+        "packagesPath": "/root/.nuget/packages/",
         "outputPath": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Models/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/zorzezorz/.nuget/NuGet/NuGet.Config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

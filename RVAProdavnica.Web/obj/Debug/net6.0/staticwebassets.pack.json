@@ -1,1599 +1,1599 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/obj/Debug/net6.0/scopedcss/projectbundle/RVAProdavnica.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets/RVAProdavnica.Web.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/css/material-dashboard.css",
+      "PackagePath": "staticwebassets/css/material-dashboard.css"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/css/material-dashboard.css.map",
+      "PackagePath": "staticwebassets/css/material-dashboard.css.map"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/css/material-dashboard.min.css",
+      "PackagePath": "staticwebassets/css/material-dashboard.min.css"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/css/nucleo-icons.css",
+      "PackagePath": "staticwebassets/css/nucleo-icons.css"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/css/nucleo-svg.css",
+      "PackagePath": "staticwebassets/css/nucleo-svg.css"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/fonts/nucleo-icons.eot",
+      "PackagePath": "staticwebassets/fonts/nucleo-icons.eot"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/fonts/nucleo-icons.svg",
+      "PackagePath": "staticwebassets/fonts/nucleo-icons.svg"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/fonts/nucleo-icons.ttf",
+      "PackagePath": "staticwebassets/fonts/nucleo-icons.ttf"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/fonts/nucleo-icons.woff",
+      "PackagePath": "staticwebassets/fonts/nucleo-icons.woff"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/fonts/nucleo-icons.woff2",
+      "PackagePath": "staticwebassets/fonts/nucleo-icons.woff2"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/fonts/nucleo.eot",
+      "PackagePath": "staticwebassets/fonts/nucleo.eot"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/fonts/nucleo.ttf",
+      "PackagePath": "staticwebassets/fonts/nucleo.ttf"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/fonts/nucleo.woff",
+      "PackagePath": "staticwebassets/fonts/nucleo.woff"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/fonts/nucleo.woff2",
+      "PackagePath": "staticwebassets/fonts/nucleo.woff2"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/google-fonts/Material.css",
+      "PackagePath": "staticwebassets/google-fonts/Material.css"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/google-fonts/Roboto.css",
+      "PackagePath": "staticwebassets/google-fonts/Roboto.css"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/ajaxCalls.js",
+      "PackagePath": "staticwebassets/js/ajaxCalls.js"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/contactus.js",
+      "PackagePath": "staticwebassets/js/contactus.js"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/core/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/js/core/bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/core/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/core/bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/core/popper.min.js",
+      "PackagePath": "staticwebassets/js/core/popper.min.js"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/material-dashboard.js",
+      "PackagePath": "staticwebassets/js/material-dashboard.js"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/material-dashboard.js.map",
+      "PackagePath": "staticwebassets/js/material-dashboard.js.map"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/material-dashboard.min.js",
+      "PackagePath": "staticwebassets/js/material-dashboard.min.js"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/Chart.extension.js",
+      "PackagePath": "staticwebassets/js/plugins/Chart.extension.js"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/awesome-fonts-external-link.js",
+      "PackagePath": "staticwebassets/js/plugins/awesome-fonts-external-link.js"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/bootstrap-notify.js",
+      "PackagePath": "staticwebassets/js/plugins/bootstrap-notify.js"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/chartjs.min.js",
+      "PackagePath": "staticwebassets/js/plugins/chartjs.min.js"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/github-buttons.js",
+      "PackagePath": "staticwebassets/js/plugins/github-buttons.js"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/apple-icon.png",
+      "PackagePath": "staticwebassets/js/plugins/img/apple-icon.png"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/bg-pricing.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/bg-pricing.jpg"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/bg-smart-home-1.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/bg-smart-home-1.jpg"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/bg-smart-home-2.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/bg-smart-home-2.jpg"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/bruce-mars.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/bruce-mars.jpg"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/down-arrow-dark.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/down-arrow-dark.svg"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/down-arrow-white.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/down-arrow-white.svg"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/down-arrow.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/down-arrow.svg"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/drake.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/drake.jpg"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/favicon.png",
+      "PackagePath": "staticwebassets/js/plugins/img/favicon.png"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/home-decor-1.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/home-decor-1.jpg"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/home-decor-2.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/home-decor-2.jpg"
     },
     {
-      "Id": "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/home-decor-3.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/home-decor-3.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RVAProdavnica.Web.bundle.scp.css",
-      "PackagePath": "staticwebassets\\RVAProdavnica.Web.bundle.scp.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/icons/flags/AU.png",
+      "PackagePath": "staticwebassets/js/plugins/img/icons/flags/AU.png"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\css\\material-dashboard.css",
-      "PackagePath": "staticwebassets\\css\\material-dashboard.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/icons/flags/BR.png",
+      "PackagePath": "staticwebassets/js/plugins/img/icons/flags/BR.png"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\css\\material-dashboard.css.map",
-      "PackagePath": "staticwebassets\\css\\material-dashboard.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/icons/flags/DE.png",
+      "PackagePath": "staticwebassets/js/plugins/img/icons/flags/DE.png"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\css\\material-dashboard.min.css",
-      "PackagePath": "staticwebassets\\css\\material-dashboard.min.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/icons/flags/GB.png",
+      "PackagePath": "staticwebassets/js/plugins/img/icons/flags/GB.png"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\css\\nucleo-icons.css",
-      "PackagePath": "staticwebassets\\css\\nucleo-icons.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/icons/flags/US.png",
+      "PackagePath": "staticwebassets/js/plugins/img/icons/flags/US.png"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\css\\nucleo-svg.css",
-      "PackagePath": "staticwebassets\\css\\nucleo-svg.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/illustrations/chat.png",
+      "PackagePath": "staticwebassets/js/plugins/img/illustrations/chat.png"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/illustrations/danger-chat-ill.png",
+      "PackagePath": "staticwebassets/js/plugins/img/illustrations/danger-chat-ill.png"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\fonts\\nucleo-icons.eot",
-      "PackagePath": "staticwebassets\\fonts\\nucleo-icons.eot"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/illustrations/dark-lock-ill.png",
+      "PackagePath": "staticwebassets/js/plugins/img/illustrations/dark-lock-ill.png"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\fonts\\nucleo-icons.svg",
-      "PackagePath": "staticwebassets\\fonts\\nucleo-icons.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/illustrations/error-404.png",
+      "PackagePath": "staticwebassets/js/plugins/img/illustrations/error-404.png"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\fonts\\nucleo-icons.ttf",
-      "PackagePath": "staticwebassets\\fonts\\nucleo-icons.ttf"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/illustrations/error-500.png",
+      "PackagePath": "staticwebassets/js/plugins/img/illustrations/error-500.png"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\fonts\\nucleo-icons.woff",
-      "PackagePath": "staticwebassets\\fonts\\nucleo-icons.woff"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/illustrations/illustration-lock.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/illustrations/illustration-lock.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\fonts\\nucleo-icons.woff2",
-      "PackagePath": "staticwebassets\\fonts\\nucleo-icons.woff2"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/illustrations/illustration-reset.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/illustrations/illustration-reset.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\fonts\\nucleo.eot",
-      "PackagePath": "staticwebassets\\fonts\\nucleo.eot"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/illustrations/illustration-signin.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/illustrations/illustration-signin.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\fonts\\nucleo.ttf",
-      "PackagePath": "staticwebassets\\fonts\\nucleo.ttf"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/illustrations/illustration-signup.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/illustrations/illustration-signup.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\fonts\\nucleo.woff",
-      "PackagePath": "staticwebassets\\fonts\\nucleo.woff"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/illustrations/illustration-verification.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/illustrations/illustration-verification.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\fonts\\nucleo.woff2",
-      "PackagePath": "staticwebassets\\fonts\\nucleo.woff2"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/illustrations/lock.png",
+      "PackagePath": "staticwebassets/js/plugins/img/illustrations/lock.png"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\google-fonts\\Material.css",
-      "PackagePath": "staticwebassets\\google-fonts\\Material.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/illustrations/pattern-tree.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/illustrations/pattern-tree.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\google-fonts\\Roboto.css",
-      "PackagePath": "staticwebassets\\google-fonts\\Roboto.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/illustrations/rocket-white.png",
+      "PackagePath": "staticwebassets/js/plugins/img/illustrations/rocket-white.png"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\ajaxCalls.js",
-      "PackagePath": "staticwebassets\\js\\ajaxCalls.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/ivana-square.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/ivana-square.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\contactus.js",
-      "PackagePath": "staticwebassets\\js\\contactus.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/ivana-squares.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/ivana-squares.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\core\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\js\\core\\bootstrap.bundle.min.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/ivancik.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/ivancik.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\core\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\js\\core\\bootstrap.min.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/kal-visuals-square.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\core\\popper.min.js",
-      "PackagePath": "staticwebassets\\js\\core\\popper.min.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/logo-ct-dark.png",
+      "PackagePath": "staticwebassets/js/plugins/img/logo-ct-dark.png"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\material-dashboard.js",
-      "PackagePath": "staticwebassets\\js\\material-dashboard.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/logo-ct.png",
+      "PackagePath": "staticwebassets/js/plugins/img/logo-ct.png"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\material-dashboard.js.map",
-      "PackagePath": "staticwebassets\\js\\material-dashboard.js.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/logos/gray-logos/logo-coinbase.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/logos/gray-logos/logo-coinbase.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\material-dashboard.min.js",
-      "PackagePath": "staticwebassets\\js\\material-dashboard.min.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/logos/gray-logos/logo-nasa.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/logos/gray-logos/logo-nasa.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\Chart.extension.js",
-      "PackagePath": "staticwebassets\\js\\plugins\\Chart.extension.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/logos/gray-logos/logo-netflix.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/logos/gray-logos/logo-netflix.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\awesome-fonts-external-link.js",
-      "PackagePath": "staticwebassets\\js\\plugins\\awesome-fonts-external-link.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/logos/gray-logos/logo-pinterest.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/logos/gray-logos/logo-pinterest.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\bootstrap-notify.js",
-      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap-notify.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/logos/gray-logos/logo-spotify.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/logos/gray-logos/logo-spotify.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\chartjs.min.js",
-      "PackagePath": "staticwebassets\\js\\plugins\\chartjs.min.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/logos/gray-logos/logo-vodafone.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/logos/gray-logos/logo-vodafone.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\github-buttons.js",
-      "PackagePath": "staticwebassets\\js\\plugins\\github-buttons.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/logos/mastercard.png",
+      "PackagePath": "staticwebassets/js/plugins/img/logos/mastercard.png"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\apple-icon.png",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\apple-icon.png"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/logos/visa.png",
+      "PackagePath": "staticwebassets/js/plugins/img/logos/visa.png"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\bg-pricing.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\bg-pricing.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/marie.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/marie.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\bg-smart-home-1.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\bg-smart-home-1.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/meeting.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/meeting.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\bg-smart-home-2.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\bg-smart-home-2.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/office-dark.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/office-dark.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\bruce-mars.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\bruce-mars.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/product-12.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/product-12.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\down-arrow-dark.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\down-arrow-dark.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/products/product-1-min.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/products/product-1-min.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\down-arrow-white.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\down-arrow-white.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/products/product-11.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/products/product-11.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\down-arrow.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\down-arrow.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/products/product-2-min.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/products/product-2-min.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\drake.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\drake.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/products/product-3-min.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/products/product-3-min.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\favicon.png",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\favicon.png"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/products/product-4-min.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/products/product-4-min.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\home-decor-1.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\home-decor-1.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/products/product-5-min.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/products/product-5-min.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\home-decor-2.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\home-decor-2.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/products/product-6-min.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/products/product-6-min.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\home-decor-3.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\home-decor-3.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/products/product-7-min.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/products/product-7-min.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\icons\\flags\\AU.png",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\icons\\flags\\AU.png"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/products/product-details-1.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/products/product-details-1.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\icons\\flags\\BR.png",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\icons\\flags\\BR.png"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/products/product-details-2.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/products/product-details-2.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\icons\\flags\\DE.png",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\icons\\flags\\DE.png"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/products/product-details-3.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/products/product-details-3.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\icons\\flags\\GB.png",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\icons\\flags\\GB.png"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/products/product-details-4.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/products/product-details-4.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\icons\\flags\\US.png",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\icons\\flags\\US.png"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/products/product-details-5.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/products/product-details-5.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\illustrations\\chat.png",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\illustrations\\chat.png"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/shapes/pattern-lines.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/shapes/pattern-lines.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\illustrations\\danger-chat-ill.png",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\illustrations\\danger-chat-ill.png"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/shapes/waves-white.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/shapes/waves-white.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\illustrations\\dark-lock-ill.png",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\illustrations\\dark-lock-ill.png"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/small-logos/bootstrap.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/small-logos/bootstrap.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\illustrations\\error-404.png",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\illustrations\\error-404.png"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/small-logos/creative-tim.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/small-logos/creative-tim.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\illustrations\\error-500.png",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\illustrations\\error-500.png"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/small-logos/devto.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/small-logos/devto.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\illustrations\\illustration-lock.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\illustrations\\illustration-lock.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/small-logos/github.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/small-logos/github.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\illustrations\\illustration-reset.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\illustrations\\illustration-reset.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/small-logos/google-webdev.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/small-logos/google-webdev.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\illustrations\\illustration-signin.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\illustrations\\illustration-signin.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/small-logos/icon-bulb.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/small-logos/icon-bulb.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\illustrations\\illustration-signup.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\illustrations\\illustration-signup.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/small-logos/icon-sun-cloud.png",
+      "PackagePath": "staticwebassets/js/plugins/img/small-logos/icon-sun-cloud.png"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\illustrations\\illustration-verification.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\illustrations\\illustration-verification.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/small-logos/logo-asana.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/small-logos/logo-asana.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\illustrations\\lock.png",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\illustrations\\lock.png"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/small-logos/logo-atlassian.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/small-logos/logo-atlassian.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\illustrations\\pattern-tree.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\illustrations\\pattern-tree.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/small-logos/logo-invision.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/small-logos/logo-invision.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\illustrations\\rocket-white.png",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\illustrations\\rocket-white.png"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/small-logos/logo-jira.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/small-logos/logo-jira.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\ivana-square.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\ivana-square.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/small-logos/logo-slack.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/small-logos/logo-slack.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\ivana-squares.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\ivana-squares.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/small-logos/logo-spotify.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/small-logos/logo-spotify.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\ivancik.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\ivancik.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/small-logos/logo-xd.svg",
+      "PackagePath": "staticwebassets/js/plugins/img/small-logos/logo-xd.svg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\kal-visuals-square.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\kal-visuals-square.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/team--2.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/team--2.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\logo-ct-dark.png",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\logo-ct-dark.png"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/team-1.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/team-1.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\logo-ct.png",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\logo-ct.png"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/team-3.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/team-3.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\logos\\gray-logos\\logo-coinbase.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\logos\\gray-logos\\logo-coinbase.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/team-4.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/team-4.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\logos\\gray-logos\\logo-nasa.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\logos\\gray-logos\\logo-nasa.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/team-5.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/team-5.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\logos\\gray-logos\\logo-netflix.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\logos\\gray-logos\\logo-netflix.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/tesla-model-s.png",
+      "PackagePath": "staticwebassets/js/plugins/img/tesla-model-s.png"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\logos\\gray-logos\\logo-pinterest.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\logos\\gray-logos\\logo-pinterest.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/img/vr-bg.jpg",
+      "PackagePath": "staticwebassets/js/plugins/img/vr-bg.jpg"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\logos\\gray-logos\\logo-spotify.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\logos\\gray-logos\\logo-spotify.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets/js/plugins/perfect-scrollbar.min.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\logos\\gray-logos\\logo-vodafone.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\logos\\gray-logos\\logo-vodafone.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets/js/plugins/smooth-scrollbar.min.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\logos\\mastercard.png",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\logos\\mastercard.png"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/plugins/world.js",
+      "PackagePath": "staticwebassets/js/plugins/world.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\logos\\visa.png",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\logos\\visa.png"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/js/registration.js",
+      "PackagePath": "staticwebassets/js/registration.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\marie.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\marie.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\meeting.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\meeting.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\office-dark.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\office-dark.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\product-12.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\product-12.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\products\\product-1-min.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\products\\product-1-min.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\products\\product-11.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\products\\product-11.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\products\\product-2-min.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\products\\product-2-min.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\products\\product-3-min.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\products\\product-3-min.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\products\\product-4-min.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\products\\product-4-min.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\products\\product-5-min.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\products\\product-5-min.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\products\\product-6-min.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\products\\product-6-min.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\products\\product-7-min.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\products\\product-7-min.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\products\\product-details-1.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\products\\product-details-1.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\products\\product-details-2.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\products\\product-details-2.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\products\\product-details-3.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\products\\product-details-3.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\products\\product-details-4.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\products\\product-details-4.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\products\\product-details-5.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\products\\product-details-5.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\shapes\\pattern-lines.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\shapes\\pattern-lines.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\shapes\\waves-white.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\shapes\\waves-white.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\small-logos\\bootstrap.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\small-logos\\bootstrap.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\small-logos\\creative-tim.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\small-logos\\creative-tim.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\small-logos\\devto.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\small-logos\\devto.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\small-logos\\github.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\small-logos\\github.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\small-logos\\google-webdev.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\small-logos\\google-webdev.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\small-logos\\icon-bulb.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\small-logos\\icon-bulb.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\small-logos\\icon-sun-cloud.png",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\small-logos\\icon-sun-cloud.png"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\small-logos\\logo-asana.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\small-logos\\logo-asana.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\small-logos\\logo-atlassian.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\small-logos\\logo-atlassian.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\small-logos\\logo-invision.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\small-logos\\logo-invision.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\small-logos\\logo-jira.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\small-logos\\logo-jira.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\small-logos\\logo-slack.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\small-logos\\logo-slack.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\small-logos\\logo-spotify.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\small-logos\\logo-spotify.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\small-logos\\logo-xd.svg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\small-logos\\logo-xd.svg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\team--2.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\team--2.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\team-1.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\team-1.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\team-3.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\team-3.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\team-4.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\team-4.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\team-5.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\team-5.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\tesla-model-s.png",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\tesla-model-s.png"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\img\\vr-bg.jpg",
-      "PackagePath": "staticwebassets\\js\\plugins\\img\\vr-bg.jpg"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\perfect-scrollbar.min.js",
-      "PackagePath": "staticwebassets\\js\\plugins\\perfect-scrollbar.min.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\smooth-scrollbar.min.js",
-      "PackagePath": "staticwebassets\\js\\plugins\\smooth-scrollbar.min.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\plugins\\world.js",
-      "PackagePath": "staticwebassets\\js\\plugins\\world.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\registration.js",
-      "PackagePath": "staticwebassets\\js\\registration.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_alert.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_alert.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_avatars.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_avatars.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_badge.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_badge.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_breadcrumbs.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_breadcrumbs.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_buttons.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_cards.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_cards.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_dark-version.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_dark-version.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_dropdown.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_dropdown.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_dropup.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_dropup.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_fixed-plugin.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_fixed-plugin.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_footer.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_footer.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_forms.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_forms.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_gradients.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_gradients.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_header.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_header.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_icons.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_icons.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_info-areas.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_info-areas.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_misc.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_misc.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_nav.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_nav.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_navbar-vertical.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_navbar-vertical.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_navbar.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_navbar.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_pagination.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_popovers.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_popovers.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_progress.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_progress.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_ripple.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_ripple.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_rtl.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_rtl.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_social-buttons.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_social-buttons.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_tables.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_tables.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_tilt.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_tilt.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_timeline.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_timeline.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_tooltips.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_tooltips.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_typography.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_typography.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_utilities-extend.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_utilities-extend.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_utilities.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/_variables.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/_variables.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_accordion.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_accordion.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_alert.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_alert.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_badge.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_badge.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_breadcrumb.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_button-group.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_button-group.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_buttons.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_card.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_card.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_carousel.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_carousel.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_close.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_close.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_containers.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_containers.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_alert.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_alert.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_dropdown.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_dropdown.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_avatars.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_avatars.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_forms.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_forms.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_badge.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_badge.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_functions.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_functions.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_breadcrumbs.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_breadcrumbs.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_grid.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_grid.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_buttons.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_buttons.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_helpers.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_helpers.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_cards.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_cards.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_images.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_images.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_dark-version.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_dark-version.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_list-group.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_list-group.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_dropdown.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_dropdown.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_maps.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_maps.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_dropup.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_dropup.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_mixins.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_mixins.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_fixed-plugin.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_fixed-plugin.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_modal.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_modal.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_footer.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_footer.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_nav.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_nav.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_forms.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_forms.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_navbar.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_navbar.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_gradients.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_gradients.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_offcanvas.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_offcanvas.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_header.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_header.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_pagination.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_icons.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_icons.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_placeholders.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_placeholders.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_info-areas.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_info-areas.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_popover.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_popover.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_misc.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_misc.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_progress.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_progress.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_nav.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_nav.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_reboot.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_reboot.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_navbar-vertical.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_navbar-vertical.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_root.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_root.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_navbar.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_navbar.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_spinners.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_spinners.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_pagination.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_pagination.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_tables.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_tables.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_popovers.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_popovers.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_toasts.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_toasts.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_progress.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_progress.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_tooltip.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_tooltip.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_ripple.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_ripple.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_transitions.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_transitions.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_rtl.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_rtl.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_type.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_type.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_social-buttons.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_social-buttons.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_utilities.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_tables.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_tables.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/_variables.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/_variables.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_tilt.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_tilt.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/bootstrap-grid.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/bootstrap-grid.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_timeline.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_timeline.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/bootstrap-reboot.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_tooltips.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_tooltips.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/bootstrap-utilities.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_typography.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_typography.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/bootstrap.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/bootstrap.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_utilities-extend.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_utilities-extend.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/forms/_floating-labels.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/forms/_floating-labels.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_utilities.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_utilities.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/forms/_form-check.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\_variables.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\_variables.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/forms/_form-control.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/forms/_form-control.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_accordion.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_accordion.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/forms/_form-range.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/forms/_form-range.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_alert.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_alert.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/forms/_form-select.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_badge.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_badge.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/forms/_form-text.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/forms/_form-text.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_breadcrumb.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_breadcrumb.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/forms/_input-group.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_button-group.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_button-group.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/forms/_labels.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/forms/_labels.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_buttons.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_buttons.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/forms/_validation.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/forms/_validation.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_card.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_card.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/helpers/_clearfix.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/helpers/_clearfix.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_carousel.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_carousel.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/helpers/_color-bg.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/helpers/_color-bg.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_close.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_close.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/helpers/_colored-links.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/helpers/_colored-links.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_containers.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_containers.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/helpers/_position.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/helpers/_position.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_dropdown.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_dropdown.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/helpers/_ratio.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/helpers/_ratio.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_forms.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_forms.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/helpers/_stacks.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/helpers/_stacks.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_functions.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_functions.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/helpers/_stretched-link.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/helpers/_stretched-link.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_grid.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_grid.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/helpers/_text-truncation.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/helpers/_text-truncation.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_helpers.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_helpers.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/helpers/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/helpers/_visually-hidden.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_images.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_images.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/helpers/_vr.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/helpers/_vr.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_list-group.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_list-group.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_alert.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_maps.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_maps.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_backdrop.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_backdrop.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_mixins.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_mixins.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_banner.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_banner.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_modal.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_modal.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_border-radius.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_nav.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_nav.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_box-shadow.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_box-shadow.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_navbar.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_navbar.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_breakpoints.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_breakpoints.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_offcanvas.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_offcanvas.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_buttons.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_pagination.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_pagination.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_caret.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_placeholders.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_placeholders.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_clearfix.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_popover.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_popover.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_color-scheme.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_color-scheme.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_progress.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_progress.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_container.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_container.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_reboot.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_reboot.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_deprecate.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_deprecate.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_root.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_root.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_forms.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_spinners.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_spinners.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_gradients.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_tables.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_tables.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_grid.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_toasts.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_toasts.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_image.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_image.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_tooltip.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_tooltip.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_list-group.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_transitions.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_transitions.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_lists.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_lists.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_type.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_type.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_pagination.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_utilities.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_utilities.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_reset-text.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\_variables.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\_variables.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_resize.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\bootstrap-grid.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\bootstrap-grid.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_table-variants.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_table-variants.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\bootstrap-reboot.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\bootstrap-reboot.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_text-truncate.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_text-truncate.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\bootstrap-utilities.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\bootstrap-utilities.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_transition.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_transition.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\bootstrap.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\bootstrap.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_utilities.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\forms\\_floating-labels.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\forms\\_floating-labels.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/mixins/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/mixins/_visually-hidden.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\forms\\_form-check.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\forms\\_form-check.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/utilities/_api.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/utilities/_api.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\forms\\_form-control.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\forms\\_form-control.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/bootstrap/vendor/_rfs.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/bootstrap/vendor/_rfs.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\forms\\_form-range.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\forms\\_form-range.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/cards/card-background.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/cards/card-background.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\forms\\_form-select.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\forms\\_form-select.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/cards/card-rotate.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/cards/card-rotate.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\forms\\_form-text.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\forms\\_form-text.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/custom/_styles.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/custom/_styles.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\forms\\_input-group.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\forms\\_input-group.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/custom/_variables.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/custom/_variables.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\forms\\_labels.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\forms\\_labels.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/forms/_form-check.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\forms\\_validation.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\forms\\_validation.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/forms/_form-select.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\helpers\\_clearfix.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\helpers\\_clearfix.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/forms/_form-switch.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/forms/_form-switch.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\helpers\\_color-bg.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\helpers\\_color-bg.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/forms/_forms.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/forms/_forms.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\helpers\\_colored-links.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\helpers\\_colored-links.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/forms/_input-group.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\helpers\\_position.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\helpers\\_position.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/forms/_inputs.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/forms/_inputs.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\helpers\\_ratio.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\helpers\\_ratio.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/forms/_labels.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/forms/_labels.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\helpers\\_stacks.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\helpers\\_stacks.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/mixins/_badge.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/mixins/_badge.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/mixins/_buttons.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/mixins/_colored-shadows.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/mixins/_colored-shadows.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/mixins/_hover.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/mixins/_hover.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\helpers\\_vr.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\helpers\\_vr.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/mixins/_social-buttons.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/mixins/_social-buttons.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_alert.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_alert.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/mixins/_vendor.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/mixins/_vendor.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_backdrop.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_backdrop.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/mixins/mixins.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/mixins/mixins.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_banner.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_banner.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/plugins/free/_flatpickr.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/plugins/free/_flatpickr.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_border-radius.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/plugins/free/_nouislider.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/plugins/free/_nouislider.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/plugins/free/_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/plugins/free/_perfect-scrollbar.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/plugins/free/_prism.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/plugins/free/_prism.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_buttons.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_buttons.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/plugins/free/plugins.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/plugins/free/plugins.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_caret.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_caret.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/theme.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/theme.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_clearfix.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_animations.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_animations.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_avatars.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_avatars.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_container.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_container.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_badge.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_badge.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_deprecate.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_breadcrumb.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_forms.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_forms.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_cards-extend.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_cards-extend.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_gradients.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_gradients.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_cards.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_cards.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_grid.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_grid.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_choices.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_choices.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_image.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_image.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_dark-version.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_dark-version.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_list-group.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_list-group.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_dropdowns.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_dropdowns.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_lists.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_lists.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_fixed-plugin.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_fixed-plugin.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_pagination.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_pagination.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_form-switch.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_form-switch.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_reset-text.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_full-calendar.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_full-calendar.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_resize.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_resize.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_header.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_header.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_table-variants.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_table-variants.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_info-areas.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_info-areas.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_misc-extend.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_misc-extend.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_transition.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_transition.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_misc.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_misc.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_utilities.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_utilities.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_navbar-vertical.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_navbar-vertical.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_navbar.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_navbar.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\utilities\\_api.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\utilities\\_api.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_pagination.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\bootstrap\\vendor\\_rfs.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\bootstrap\\vendor\\_rfs.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_ripple.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_ripple.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\cards\\card-background.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\cards\\card-background.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_rtl.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_rtl.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\cards\\card-rotate.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\cards\\card-rotate.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_social-buttons.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_social-buttons.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\custom\\_styles.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\custom\\_styles.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_table.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_table.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\custom\\_variables.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\custom\\_variables.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_timeline.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_timeline.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\forms\\_form-check.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\forms\\_form-check.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_utilities-extend.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_utilities-extend.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\forms\\_form-select.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\forms\\_form-select.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_utilities.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\forms\\_form-switch.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\forms\\_form-switch.scss"
+      "Id": "/home/zorzezorz/Documents/Dev/OnlineShop/RVAProdavnica.Web/wwwroot/scss/material-dashboard/variables/_virtual-reality.scss",
+      "PackagePath": "staticwebassets/scss/material-dashboard/variables/_virtual-reality.scss"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\forms\\_forms.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\forms\\_forms.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\forms\\_input-group.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\forms\\_input-group.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\forms\\_inputs.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\forms\\_inputs.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\forms\\_labels.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\forms\\_labels.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\mixins\\_badge.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\mixins\\_badge.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\mixins\\_buttons.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\mixins\\_buttons.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\mixins\\_colored-shadows.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\mixins\\_colored-shadows.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\mixins\\_hover.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\mixins\\_hover.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\mixins\\_social-buttons.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\mixins\\_social-buttons.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\mixins\\_vendor.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\mixins\\_vendor.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\mixins\\mixins.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\mixins\\mixins.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\plugins\\free\\_flatpickr.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\plugins\\free\\_flatpickr.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\plugins\\free\\_nouislider.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\plugins\\free\\_nouislider.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\plugins\\free\\_prism.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\plugins\\free\\_prism.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\plugins\\free\\plugins.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\plugins\\free\\plugins.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\theme.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\theme.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_animations.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_animations.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_avatars.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_avatars.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_badge.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_badge.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_breadcrumb.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_breadcrumb.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_cards-extend.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_cards-extend.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_cards.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_cards.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_choices.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_choices.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_dark-version.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_dark-version.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.css",
+      "PackagePath": "staticwebassets/css/bootstrap.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_dropdowns.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_dropdowns.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_fixed-plugin.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_fixed-plugin.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_form-switch.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_form-switch.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_full-calendar.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_full-calendar.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_header.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_header.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_info-areas.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_info-areas.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_misc-extend.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_misc-extend.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_misc.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_misc.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_navbar-vertical.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_navbar-vertical.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_navbar.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_navbar.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_pagination.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_pagination.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_ripple.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_ripple.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_rtl.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_rtl.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_social-buttons.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_social-buttons.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_table.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_table.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_timeline.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_timeline.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.js",
+      "PackagePath": "staticwebassets/js/bootstrap.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_utilities-extend.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_utilities-extend.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.js.map"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_utilities.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_utilities.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
     },
     {
-      "Id": "E:\\zorzezorz\\Dev\\dotnet\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\scss\\material-dashboard\\variables\\_virtual-reality.scss",
-      "PackagePath": "staticwebassets\\scss\\material-dashboard\\variables\\_virtual-reality.scss"
+      "Id": "/root/.nuget/packages/bootstrap/5.2.3/contentFiles/any/any/wwwroot/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js.map"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RVAProdavnica.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.RVAProdavnica.Web.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RVAProdavnica.Web.props",
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.RVAProdavnica.Web.props",
       "PackagePath": "build\\RVAProdavnica.Web.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RVAProdavnica.Web.props",
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.RVAProdavnica.Web.props",
       "PackagePath": "buildMultiTargeting\\RVAProdavnica.Web.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RVAProdavnica.Web.props",
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.RVAProdavnica.Web.props",
       "PackagePath": "buildTransitive\\RVAProdavnica.Web.props"
     }
   ],
