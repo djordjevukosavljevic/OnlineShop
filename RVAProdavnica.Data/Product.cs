@@ -20,7 +20,6 @@ using System.Threading.Tasks;
         [Column("price")]
         public double Price { get; set; }
     
-        public string Uzrecica{get;set;}
 
     }
 }
