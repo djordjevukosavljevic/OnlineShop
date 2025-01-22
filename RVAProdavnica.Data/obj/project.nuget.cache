@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zX74Xxqtbl4=",
+  "dgSpecHash": "KqrKakjaj6w=",
   "success": true,
   "projectFilePath": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj",
   "expectedPackageFiles": [
@@ -73,10 +73,7 @@
     "C:\\Users\\djord\\.nuget\\packages\\system.threading.tasks.parallel\\4.0.1\\system.threading.tasks.parallel.4.0.1.nupkg.sha512",
     "C:\\Users\\djord\\.nuget\\packages\\system.threading.thread\\4.0.0\\system.threading.thread.4.0.0.nupkg.sha512",
     "C:\\Users\\djord\\.nuget\\packages\\system.threading.threadpool\\4.0.10\\system.threading.threadpool.4.0.10.nupkg.sha512",
-    "C:\\Users\\djord\\.nuget\\packages\\system.threading.timer\\4.0.1\\system.threading.timer.4.0.1.nupkg.sha512",
-    "C:\\Users\\djord\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\djord\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\djord\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+    "C:\\Users\\djord\\.nuget\\packages\\system.threading.timer\\4.0.1\\system.threading.timer.4.0.1.nupkg.sha512"
   ],
   "logs": []
 }

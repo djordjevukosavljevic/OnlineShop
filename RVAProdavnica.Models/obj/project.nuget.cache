@@ -1,13 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OHe4219H5SI=",
+  "dgSpecHash": "kc8zoA+6imY=",
   "success": true,
   "projectFilePath": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Models\\RVAProdavnica.Models.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512",
-    "C:\\Users\\djord\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\djord\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\djord\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+    "C:\\Users\\djord\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512"
   ],
   "logs": []
 }

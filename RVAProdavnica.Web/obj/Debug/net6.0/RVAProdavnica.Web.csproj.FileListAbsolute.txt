@@ -2307,7 +2307,6 @@ C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\stati
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RVAProdavnica.Web.props
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RVAProdavnica.Web.props
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\RVAProda.EE6E7F60.Up2Date
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\RVAProdavnica.Web.dll
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\refint\RVAProdavnica.Web.dll
