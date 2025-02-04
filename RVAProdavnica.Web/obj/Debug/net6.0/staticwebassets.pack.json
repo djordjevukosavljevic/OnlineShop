@@ -269,6 +269,10 @@
       "PackagePath": "staticwebassets\\js\\core\\popper.min.js"
     },
     {
+      "Id": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAPRodavnica.WEb\\wwwroot\\js\\homebtn.js",
+      "PackagePath": "staticwebassets\\js\\homebtn.js"
+    },
+    {
       "Id": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAPRodavnica.WEb\\wwwroot\\js\\material-dashboard.js",
       "PackagePath": "staticwebassets\\js\\material-dashboard.js"
     },

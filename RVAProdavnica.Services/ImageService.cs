@@ -11,7 +11,7 @@ namespace RVAProdavnica.Services
 
     public class ImageSrvice : IImageService
     {
-        private readonly IImageRepository repository;
+        // private readonly IImageRepository repository;
 
 
 

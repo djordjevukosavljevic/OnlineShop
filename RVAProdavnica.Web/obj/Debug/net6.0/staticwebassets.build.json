@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tLxQrSBl7k6P3B4HpuQ6HCOUT+tpbOOniDTlTodWlt4=",
+  "Hash": "lsBx890Yim2z0g+tAPCOY2PBxbtfq4xxfW6Xtnh2hUA=",
   "Source": "RVAProdavnica.Web",
   "BasePath": "_content/RVAProdavnica.Web",
   "Mode": "Default",
@@ -2703,6 +2703,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\core\\popper.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAPRodavnica.WEb\\wwwroot\\js\\homebtn.js",
+      "SourceId": "RVAProdavnica.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAPRodavnica.WEb\\wwwroot\\",
+      "BasePath": "_content/RVAProdavnica.Web",
+      "RelativePath": "js/homebtn#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t5jg7ulxdz",
+      "Integrity": "AfRZuvIFMF5Z7XR/DQwiUel2wubckMU1CBC+wT0LvS8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\homebtn.js"
     },
     {
       "Identity": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAPRodavnica.WEb\\wwwroot\\js\\material-dashboard.js",
@@ -17223,6 +17244,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-wZErF9HzVZ/eqMN0E83SkJCqZp5O8nEBP/MBYiqimaY="
+        }
+      ]
+    },
+    {
+      "Route": "js/homebtn.js",
+      "AssetFile": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAPRodavnica.WEb\\wwwroot\\js\\homebtn.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AfRZuvIFMF5Z7XR/DQwiUel2wubckMU1CBC+wT0LvS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:49:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AfRZuvIFMF5Z7XR/DQwiUel2wubckMU1CBC+wT0LvS8="
+        }
+      ]
+    },
+    {
+      "Route": "js/homebtn.t5jg7ulxdz.js",
+      "AssetFile": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAPRodavnica.WEb\\wwwroot\\js\\homebtn.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AfRZuvIFMF5Z7XR/DQwiUel2wubckMU1CBC+wT0LvS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:49:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t5jg7ulxdz"
+        },
+        {
+          "Name": "label",
+          "Value": "js/homebtn.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AfRZuvIFMF5Z7XR/DQwiUel2wubckMU1CBC+wT0LvS8="
         }
       ]
     },

@@ -12,7 +12,7 @@ namespace RVAProdavnica.Data
     public class DataContext : DbContext
     {
         public DataContext([NotNullAttribute] DbContextOptions options) : base(options)
-        {
+        {   
 
         }
 
@@ -21,8 +21,6 @@ namespace RVAProdavnica.Data
         public DbSet<Image> Images { get; set; }
         public DbSet<Car> Cars { get; set; }
 
-        public DbSet<BugReport> BugReports { get; set; }
-
         // public DbSet<Message> Messages {get; set;}
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -30,7 +28,6 @@ namespace RVAProdavnica.Data
             modelBuilder.Entity<Image>();
             modelBuilder.Entity<User>();
             modelBuilder.Entity<Car>();
-            modelBuilder.Entity<BugReport>();
         }
     }
 }

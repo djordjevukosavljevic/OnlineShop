@@ -7717,6 +7717,88 @@
       ]
     },
     {
+      "Route": "js/homebtn.js",
+      "AssetFile": "js/homebtn.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AfRZuvIFMF5Z7XR/DQwiUel2wubckMU1CBC+wT0LvS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:49:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AfRZuvIFMF5Z7XR/DQwiUel2wubckMU1CBC+wT0LvS8="
+        }
+      ]
+    },
+    {
+      "Route": "js/homebtn.t5jg7ulxdz.js",
+      "AssetFile": "js/homebtn.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AfRZuvIFMF5Z7XR/DQwiUel2wubckMU1CBC+wT0LvS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Feb 2025 13:49:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t5jg7ulxdz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AfRZuvIFMF5Z7XR/DQwiUel2wubckMU1CBC+wT0LvS8="
+        },
+        {
+          "Name": "label",
+          "Value": "js/homebtn.js"
+        }
+      ]
+    },
+    {
       "Route": "js/material-dashboard.7602081745.js",
       "AssetFile": "js/material-dashboard.js",
       "Selectors": [],
