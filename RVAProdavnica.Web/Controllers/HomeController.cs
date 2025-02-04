@@ -32,9 +32,6 @@ namespace RVAProdavnica.Web.Controllers
             return View();
         }
 
-        public IActionResult BugReport(){
-            return View();
-        }
 
         public IActionResult Registration()
         {

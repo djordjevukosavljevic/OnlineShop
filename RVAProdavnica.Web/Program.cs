@@ -23,7 +23,6 @@ SimpleCRUD.SetDialect(SimpleCRUD.Dialect.MySQL);
 builder.Services.AddSingleton<IProductRepository, ProductRepository>();
 builder.Services.AddSingleton<IOrderRepository, OrderRepository>();
 builder.Services.AddSingleton<IProductService, ProductService>();
-builder.Services.AddSingleton<IBugReportRepository, BugReportRepository>();
 
 builder.Services.AddScoped<IBugReportRepository, BugReportRepository>();
 
