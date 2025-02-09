@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RVAProdavnica.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+276eec314a1f55cf64eababf788f5ea5e3bde88d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39c25089353cffe3a8afdbe604ce9853c05d9ded")]
 [assembly: System.Reflection.AssemblyProductAttribute("RVAProdavnica.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RVAProdavnica.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
