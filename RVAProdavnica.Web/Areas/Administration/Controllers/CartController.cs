@@ -5,6 +5,7 @@ namespace RVAProdavnica.Web.Areas.Administration.Controllers
 {
     public class CartController : Controller
     {
+         
         public DataContext _dbContext;
 
         public CartController(DataContext dbConext)
@@ -12,7 +13,6 @@ namespace RVAProdavnica.Web.Areas.Administration.Controllers
             _dbContext = dbConext;
         }
 
-       
 
     }
 }
