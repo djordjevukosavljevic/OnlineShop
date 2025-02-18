@@ -43,12 +43,12 @@
             <span class="text-secondary text-xs font-weight-bold">@item.DateCreatedAt</span>
         </td>
         <td class="align-middle text-center">
-            <span class="bg-gradient-dark btn btn-dark" id="addToCartBtm">Add to cart</span>
+            <span class="bg-gradient-dark btn btn-dark" id="addToCartBtm"><i class="fa-solid fa-cart-shopping"></i>Add to cart</span>
         </td>
         <td class="align-middle text-center">
             <button class="bg-gradient-danger btn btn-dark">
             <a asp-action="Edit" asp-controller="Product" asp-area="Administration" asp-route-id="@item.Id" class="text-white text-center" data-toggle="tooltip" data-original-title="Edit user">
-                Edit
+                <i class="fa-regular fa-pen-to-square"></i>Edit
             </a>
             </button>
         </td>
