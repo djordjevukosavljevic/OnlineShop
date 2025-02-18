@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8FI4HxhObcyIudEQ9rGx5vkPB21iQijGGbN1zlHLCRs=",
+  "Hash": "LMaOtosu62ugPvR2WDaF0hnrp1Yb+d9Ayv62nk1O/TM=",
   "Source": "RVAProdavnica.Web",
   "BasePath": "_content/RVAProdavnica.Web",
   "Mode": "Default",
@@ -2257,8 +2257,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c877et5lq5",
-      "Integrity": "pO364obOzrKMbVfwLbHfRmIUQ0vRFTF0D6dtXQQHBEI=",
+      "Fingerprint": "f39uxs7mtq",
+      "Integrity": "iyo11doyZbNVggyt2+FjO9PJhQLsP4B7IkwCxrz4ZaY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\material-dashboard.css"
@@ -2346,6 +2346,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\nucleo-svg.css"
+    },
+    {
+      "Identity": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\css\\products.css",
+      "SourceId": "RVAProdavnica.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\",
+      "BasePath": "_content/RVAProdavnica.Web",
+      "RelativePath": "css/products#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "27r2pa54nf",
+      "Integrity": "LmfE12EqhJlc/jXRYDVNfVhzYOcFjHwA4V0lQJRWQjI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\products.css"
     },
     {
       "Identity": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\favicon.ico",
@@ -12240,51 +12261,6 @@
       ]
     },
     {
-      "Route": "css/material-dashboard.c877et5lq5.css",
-      "AssetFile": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\css\\material-dashboard.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "539200"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pO364obOzrKMbVfwLbHfRmIUQ0vRFTF0D6dtXQQHBEI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 15:20:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c877et5lq5"
-        },
-        {
-          "Name": "label",
-          "Value": "css/material-dashboard.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pO364obOzrKMbVfwLbHfRmIUQ0vRFTF0D6dtXQQHBEI="
-        }
-      ]
-    },
-    {
       "Route": "css/material-dashboard.css",
       "AssetFile": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\css\\material-dashboard.css",
       "Selectors": [],
@@ -12295,7 +12271,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "539200"
+          "Value": "539517"
         },
         {
           "Name": "Content-Type",
@@ -12303,11 +12279,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pO364obOzrKMbVfwLbHfRmIUQ0vRFTF0D6dtXQQHBEI=\""
+          "Value": "\"iyo11doyZbNVggyt2+FjO9PJhQLsP4B7IkwCxrz4ZaY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 15:20:04 GMT"
+          "Value": "Tue, 18 Feb 2025 21:00:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12317,7 +12293,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pO364obOzrKMbVfwLbHfRmIUQ0vRFTF0D6dtXQQHBEI="
+          "Value": "sha256-iyo11doyZbNVggyt2+FjO9PJhQLsP4B7IkwCxrz4ZaY="
         }
       ]
     },
@@ -12400,6 +12376,51 @@
         {
           "Name": "integrity",
           "Value": "sha256-xaudFH/UpMR+sm7ApaKLXu5KvCEECXaEuP2W5lt7pbI="
+        }
+      ]
+    },
+    {
+      "Route": "css/material-dashboard.f39uxs7mtq.css",
+      "AssetFile": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\css\\material-dashboard.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "539517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iyo11doyZbNVggyt2+FjO9PJhQLsP4B7IkwCxrz4ZaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 21:00:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f39uxs7mtq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/material-dashboard.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iyo11doyZbNVggyt2+FjO9PJhQLsP4B7IkwCxrz4ZaY="
         }
       ]
     },
@@ -12646,6 +12667,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Muamsh2BAbEzuyZ2eL89U/06N+zXJCMK2qmIlYtekN8="
+        }
+      ]
+    },
+    {
+      "Route": "css/products.27r2pa54nf.css",
+      "AssetFile": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\css\\products.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LmfE12EqhJlc/jXRYDVNfVhzYOcFjHwA4V0lQJRWQjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 21:08:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "27r2pa54nf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/products.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LmfE12EqhJlc/jXRYDVNfVhzYOcFjHwA4V0lQJRWQjI="
+        }
+      ]
+    },
+    {
+      "Route": "css/products.css",
+      "AssetFile": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\css\\products.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LmfE12EqhJlc/jXRYDVNfVhzYOcFjHwA4V0lQJRWQjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Feb 2025 21:08:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LmfE12EqhJlc/jXRYDVNfVhzYOcFjHwA4V0lQJRWQjI="
         }
       ]
     },

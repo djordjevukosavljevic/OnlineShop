@@ -1,0 +1,22 @@
+.input-group.input-group-outline .form-control {
+    font-family: inherit;
+    width: 50%; /* Adjust width as needed */
+    border: 0; /* Remove default border */
+    border-bottom: 2px solid #c0c0c0; /* Silver-colored bottom border */
+    outline: 0; /* Remove default outline */
+    font-size: 1.3rem;
+    color: #000; /* Text color */
+    padding: 7px 0; /* Padding for better spacing */
+    background: transparent; /* Transparent background */
+    transition: border-color 0.3s ease-in-out; /* Smooth transition for hover/focus effects */
+}
+
+/* Add a hover effect to make the line slightly darker */
+.input-group.input-group-outline .form-control:hover {
+    border-bottom-color: #a0a0a0;
+}
+
+/* Add a focus effect to make the line stand out */
+.input-group.input-group-outline .form-control:focus {
+    border-bottom-color: #808080; /* Darker silver for focus */
+}

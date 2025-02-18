@@ -384,17 +384,11 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tf8d8chiq4"},{"Name":"integrity","Value":"sha256-\u002BbNAolFvt6YB2LgXdEQJhKQUw4T0XbrBxLf0lH4NYDo="},{"Name":"label","Value":"_content/RVAProdavnica.Web/css/bootstrap.rtl.min.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"195007"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022\u002BbNAolFvt6YB2LgXdEQJhKQUw4T0XbrBxLf0lH4NYDo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 07 Dec 2022 19:31:08 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/css/material-dashboard.c877et5lq5.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\material-dashboard.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c877et5lq5"},{"Name":"integrity","Value":"sha256-pO364obOzrKMbVfwLbHfRmIUQ0vRFTF0D6dtXQQHBEI="},{"Name":"label","Value":"_content/RVAProdavnica.Web/css/material-dashboard.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"539200"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pO364obOzrKMbVfwLbHfRmIUQ0vRFTF0D6dtXQQHBEI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Jan 2025 15:20:04 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/css/material-dashboard.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\material-dashboard.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pO364obOzrKMbVfwLbHfRmIUQ0vRFTF0D6dtXQQHBEI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"539200"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pO364obOzrKMbVfwLbHfRmIUQ0vRFTF0D6dtXQQHBEI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Jan 2025 15:20:04 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iyo11doyZbNVggyt2\u002BFjO9PJhQLsP4B7IkwCxrz4ZaY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"539517"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022iyo11doyZbNVggyt2\u002BFjO9PJhQLsP4B7IkwCxrz4ZaY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 21:00:32 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/css/material-dashboard.css.hdmeb2xgzn.map">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\material-dashboard.css.map'))</AssetFile>
@@ -407,6 +401,12 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xaudFH/UpMR\u002Bsm7ApaKLXu5KvCEECXaEuP2W5lt7pbI="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1217877"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022xaudFH/UpMR\u002Bsm7ApaKLXu5KvCEECXaEuP2W5lt7pbI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Jan 2025 15:20:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/css/material-dashboard.f39uxs7mtq.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\material-dashboard.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f39uxs7mtq"},{"Name":"integrity","Value":"sha256-iyo11doyZbNVggyt2\u002BFjO9PJhQLsP4B7IkwCxrz4ZaY="},{"Name":"label","Value":"_content/RVAProdavnica.Web/css/material-dashboard.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"539517"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022iyo11doyZbNVggyt2\u002BFjO9PJhQLsP4B7IkwCxrz4ZaY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 21:00:32 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/css/material-dashboard.min.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\material-dashboard.min.css'))</AssetFile>
@@ -443,6 +443,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u5mgq2b3je"},{"Name":"integrity","Value":"sha256-Muamsh2BAbEzuyZ2eL89U/06N\u002BzXJCMK2qmIlYtekN8="},{"Name":"label","Value":"_content/RVAProdavnica.Web/css/nucleo-svg.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2387"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Muamsh2BAbEzuyZ2eL89U/06N\u002BzXJCMK2qmIlYtekN8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Jan 2025 15:20:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/css/products.27r2pa54nf.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\products.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"27r2pa54nf"},{"Name":"integrity","Value":"sha256-LmfE12EqhJlc/jXRYDVNfVhzYOcFjHwA4V0lQJRWQjI="},{"Name":"label","Value":"_content/RVAProdavnica.Web/css/products.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"890"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022LmfE12EqhJlc/jXRYDVNfVhzYOcFjHwA4V0lQJRWQjI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 21:08:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/css/products.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\products.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LmfE12EqhJlc/jXRYDVNfVhzYOcFjHwA4V0lQJRWQjI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"890"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022LmfE12EqhJlc/jXRYDVNfVhzYOcFjHwA4V0lQJRWQjI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 21:08:31 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>

@@ -201,6 +201,10 @@
       "PackagePath": "staticwebassets\\css\\nucleo-svg.css"
     },
     {
+      "Id": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\css\\products.css",
+      "PackagePath": "staticwebassets\\css\\products.css"
+    },
+    {
       "Id": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
