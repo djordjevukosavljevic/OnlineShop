@@ -448,13 +448,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\products.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"27r2pa54nf"},{"Name":"integrity","Value":"sha256-LmfE12EqhJlc/jXRYDVNfVhzYOcFjHwA4V0lQJRWQjI="},{"Name":"label","Value":"_content/RVAProdavnica.Web/css/products.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"890"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022LmfE12EqhJlc/jXRYDVNfVhzYOcFjHwA4V0lQJRWQjI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 21:08:31 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"890"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022LmfE12EqhJlc/jXRYDVNfVhzYOcFjHwA4V0lQJRWQjI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 21:26:02 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/css/products.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\products.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LmfE12EqhJlc/jXRYDVNfVhzYOcFjHwA4V0lQJRWQjI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"890"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022LmfE12EqhJlc/jXRYDVNfVhzYOcFjHwA4V0lQJRWQjI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 21:08:31 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"890"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022LmfE12EqhJlc/jXRYDVNfVhzYOcFjHwA4V0lQJRWQjI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 18 Feb 2025 21:26:02 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
