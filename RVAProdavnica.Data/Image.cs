@@ -10,6 +10,9 @@ namespace RVAProdavnica.Data{
         public double Size {get; set;}
         [Column("path")]
         public string Path {get; set;}  
-        
+        [Column("extns")]
+        public Extension extns;
+
+        public enum Extension{JPG, JPEG, PNG}
     }
 }
