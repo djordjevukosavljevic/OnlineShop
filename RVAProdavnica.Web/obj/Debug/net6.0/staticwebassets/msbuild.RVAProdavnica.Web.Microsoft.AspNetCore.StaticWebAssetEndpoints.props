@@ -1968,6 +1968,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n3hgjlb2pr"},{"Name":"integrity","Value":"sha256-ba42FlOHjS3BEke5OzaMHe38MV1R\u002BdSR4oWUqJAv2gA="},{"Name":"label","Value":"_content/RVAProdavnica.Web/js/plugins/world.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"262588"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ba42FlOHjS3BEke5OzaMHe38MV1R\u002BdSR4oWUqJAv2gA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Jan 2025 15:20:05 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/js/products.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\products.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-VkkHYG9YY9WxhkF3SlKDScIOyS7Epz6B2XdBS9Xr4Hc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1273"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022VkkHYG9YY9WxhkF3SlKDScIOyS7Epz6B2XdBS9Xr4Hc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 11:29:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/js/products.qwhw0hzeq7.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\products.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qwhw0hzeq7"},{"Name":"integrity","Value":"sha256-VkkHYG9YY9WxhkF3SlKDScIOyS7Epz6B2XdBS9Xr4Hc="},{"Name":"label","Value":"_content/RVAProdavnica.Web/js/products.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1273"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022VkkHYG9YY9WxhkF3SlKDScIOyS7Epz6B2XdBS9Xr4Hc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 11:29:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/js/registration.jkcxp4ftey.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\registration.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
