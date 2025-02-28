@@ -600,17 +600,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pbqaj5hxa6"},{"Name":"integrity","Value":"sha256-xRqc4DX74EAJ/3nyJdCT9d/6dr\u002BWgRtl21X\u002Bgtl/nRg="},{"Name":"label","Value":"_content/RVAProdavnica.Web/google-fonts/Roboto.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15179"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xRqc4DX74EAJ/3nyJdCT9d/6dr\u002BWgRtl21X\u002Bgtl/nRg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Jan 2025 15:20:04 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/js/ajaxCalls.fnnsm2f9gs.js">
+    <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/js/ajaxCalls.9r2b5c0c3i.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\ajaxCalls.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fnnsm2f9gs"},{"Name":"integrity","Value":"sha256-u7QfuaAuQ6sOSQ6uqAJ/MTJ\u002Btmx6tQMXuKUhBndf2Gc="},{"Name":"label","Value":"_content/RVAProdavnica.Web/js/ajaxCalls.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1124"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022u7QfuaAuQ6sOSQ6uqAJ/MTJ\u002Btmx6tQMXuKUhBndf2Gc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Jan 2025 15:20:04 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9r2b5c0c3i"},{"Name":"integrity","Value":"sha256-tbfdULSjgUBQBUXaKbm6g1buUSJ2Owyr6f/XpJ2D1FE="},{"Name":"label","Value":"_content/RVAProdavnica.Web/js/ajaxCalls.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1079"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022tbfdULSjgUBQBUXaKbm6g1buUSJ2Owyr6f/XpJ2D1FE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 13:23:10 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/js/ajaxCalls.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\ajaxCalls.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-u7QfuaAuQ6sOSQ6uqAJ/MTJ\u002Btmx6tQMXuKUhBndf2Gc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1124"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022u7QfuaAuQ6sOSQ6uqAJ/MTJ\u002Btmx6tQMXuKUhBndf2Gc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Jan 2025 15:20:04 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tbfdULSjgUBQBUXaKbm6g1buUSJ2Owyr6f/XpJ2D1FE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1079"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022tbfdULSjgUBQBUXaKbm6g1buUSJ2Owyr6f/XpJ2D1FE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 13:23:10 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/js/bootstrap.bundle.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\bootstrap.bundle.js'))</AssetFile>

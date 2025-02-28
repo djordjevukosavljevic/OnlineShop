@@ -912,8 +912,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>fnnsm2f9gs</Fingerprint>
-      <Integrity>u7QfuaAuQ6sOSQ6uqAJ/MTJ+tmx6tQMXuKUhBndf2Gc=</Integrity>
+      <Fingerprint>9r2b5c0c3i</Fingerprint>
+      <Integrity>tbfdULSjgUBQBUXaKbm6g1buUSJ2Owyr6f/XpJ2D1FE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\ajaxCalls.js'))</OriginalItemSpec>
