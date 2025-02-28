@@ -1,29 +1,23 @@
-﻿@{
-    ViewData["Title"] = "Items inside";
+@*@model UserModel*@
+@{
+    ViewData["Title"] = "Cart page ";
 }
-<h1>@ViewData["Title"]<i class="fa-solid fa-cart-shopping"></i></h1>
 
 
-<add name="JavaScriptHandler" path="~/js/cart.js" verb="*" preCondition="integratedMode"
-    type="System.Web.StaticFileHandler" />
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p class="display-4" style="color: #344767; font: 56px Roboto Slab">to online shop.</p>
 
-
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
-        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
-</head>
-
-<body>
-    <div class="container">
-        <label><i>Below are products that are currently in the cart</i></label>
+</div>
+<div class="text-center">
+    <p class="display-4" style="color: #344767; font: 26px Roboto Slab">If you need any additional support or you have
+        some sugestions, contact us below</p>
+    <div class="text-align">
+        <label>
+            <button>
+                <a href="mailto:djordje.vukosavljevic01@gmail.com">
+                    <i class="fa-regular fa-envelope"></i></a>
+            </button>
+        </label>
     </div>
-</body>
-
-</html>
+</div>
