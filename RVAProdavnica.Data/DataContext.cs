@@ -19,7 +19,6 @@ namespace RVAProdavnica.Data
         public DbSet<Product> Products { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<Image> Images { get; set; }
-        public DbSet<Car> Cars { get; set; }
 
         // public DbSet<Message> Messages {get; set;}
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -27,7 +26,6 @@ namespace RVAProdavnica.Data
             modelBuilder.Entity<Product>();
             modelBuilder.Entity<Image>();
             modelBuilder.Entity<User>();
-            modelBuilder.Entity<Car>();
         }
     }
 }
