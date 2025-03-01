@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A61C0A3F-8694-48DA-BD74-20DE535BF9BA}|RVAProdavnica.Data\\RVAProdavnica.Data.csproj|c:\\users\\djord\\documents\\dev\\onlineshop\\rvaprodavnica.data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A61C0A3F-8694-48DA-BD74-20DE535BF9BA}|RVAProdavnica.Data\\RVAProdavnica.Data.csproj|solutionrelative:rvaprodavnica.data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|c:\\users\\djord\\documents\\dev\\onlineshop\\rvaprodavnica.web\\views\\shared\\sidenavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|solutionrelative:rvaprodavnica.web\\views\\shared\\sidenavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|c:\\users\\djord\\documents\\dev\\onlineshop\\rvaprodavnica.web\\views\\shared\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|solutionrelative:rvaprodavnica.web\\views\\shared\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|c:\\users\\djord\\documents\\dev\\onlineshop\\rvaprodavnica.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|solutionrelative:rvaprodavnica.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|c:\\users\\djord\\documents\\dev\\onlineshop\\rvaprodavnica.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|solutionrelative:rvaprodavnica.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|c:\\users\\djord\\documents\\dev\\onlineshop\\rvaprodavnica.web\\areas\\administration\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|solutionrelative:rvaprodavnica.web\\areas\\administration\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|c:\\users\\djord\\documents\\dev\\onlineshop\\rvaprodavnica.web\\areas\\administration\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|solutionrelative:rvaprodavnica.web\\areas\\administration\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|c:\\users\\djord\\documents\\dev\\onlineshop\\rvaprodavnica.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|solutionrelative:rvaprodavnica.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61C0A3F-8694-48DA-BD74-20DE535BF9BA}|RVAProdavnica.Data\\RVAProdavnica.Data.csproj|c:\\users\\djord\\documents\\dev\\onlineshop\\rvaprodavnica.data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61C0A3F-8694-48DA-BD74-20DE535BF9BA}|RVAProdavnica.Data\\RVAProdavnica.Data.csproj|solutionrelative:rvaprodavnica.data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|c:\\users\\djord\\documents\\dev\\onlineshop\\rvaprodavnica.web\\areas\\administration\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|solutionrelative:rvaprodavnica.web\\areas\\administration\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|c:\\users\\djord\\documents\\dev\\onlineshop\\rvaprodavnica.web\\views\\shared\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6621E44C-C518-4F81-83F3-DACBBAF46495}|RVAProdavnica.Web\\RVAProdavnica.Web.csproj|solutionrelative:rvaprodavnica.web\\views\\shared\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39DA94A4-39E8-4958-B293-5C851B433781}|RVAProdavnica.Services\\RVAProdavnica.Services.csproj|c:\\users\\djord\\documents\\dev\\onlineshop\\rvaprodavnica.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{A61C0A3F-8694-48DA-BD74-20DE535BF9BA}|RVAProdavnica.Data\\RVAProdavnica.Data.csproj|solutionrelative:rvaprodavnica.data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A61C0A3F-8694-48DA-BD74-20DE535BF9BA}|RVAProdavnica.Data\\RVAProdavnica.Data.csproj|c:\\users\\djord\\documents\\dev\\onlineshop\\rvaprodavnica.data\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A61C0A3F-8694-48DA-BD74-20DE535BF9BA}|RVAProdavnica.Data\\RVAProdavnica.Data.csproj|solutionrelative:rvaprodavnica.data\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A61C0A3F-8694-48DA-BD74-20DE535BF9BA}|RVAProdavnica.Data\\RVAProdavnica.Data.csproj|c:\\users\\djord\\documents\\dev\\onlineshop\\rvaprodavnica.data\\bugreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A61C0A3F-8694-48DA-BD74-20DE535BF9BA}|RVAProdavnica.Data\\RVAProdavnica.Data.csproj|solutionrelative:rvaprodavnica.data\\bugreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -69,6 +77,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{27A9F208-51CE-4DAC-B089-8746465725DE}|RVAProdavnica.Models\\RVAProdavnica.Models.csproj|c:\\users\\djord\\documents\\dev\\onlineshop\\rvaprodavnica.models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27A9F208-51CE-4DAC-B089-8746465725DE}|RVAProdavnica.Models\\RVAProdavnica.Models.csproj|solutionrelative:rvaprodavnica.models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\Areas\\Administration\\Views\\Account\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RVAProdavnica.Web\\Areas\\Administration\\Views\\Account\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Data\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RVAProdavnica.Data\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,23 +94,67 @@
       "DocumentGroups": [
         {
           "DockedHeight": 226,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sidenavbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\Views\\Shared\\Sidenavbar.cshtml",
+              "RelativeDocumentMoniker": "RVAProdavnica.Web\\Views\\Shared\\Sidenavbar.cshtml",
+              "ToolTip": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\Views\\Shared\\Sidenavbar.cshtml",
+              "RelativeToolTip": "RVAProdavnica.Web\\Views\\Shared\\Sidenavbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T14:03:09.685Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RVAProdavnica.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RVAProdavnica.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T14:03:00.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RVAProdavnica.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RVAProdavnica.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:55:07.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RVAProdavnica.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RVAProdavnica.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T13:54:59.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\Areas\\Administration\\Views\\Account\\Index.cshtml",
               "RelativeDocumentMoniker": "RVAProdavnica.Web\\Areas\\Administration\\Views\\Account\\Index.cshtml",
@@ -106,20 +166,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\Areas\\Administration\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Web\\Areas\\Administration\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\Areas\\Administration\\Controllers\\AccountController.cs",
               "RelativeToolTip": "RVAProdavnica.Web\\Areas\\Administration\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBEAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T15:13:31.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\Views\\Shared\\Navbar.cshtml",
+              "RelativeDocumentMoniker": "RVAProdavnica.Web\\Views\\Shared\\Navbar.cshtml",
+              "ToolTip": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\Views\\Shared\\Navbar.cshtml",
+              "RelativeToolTip": "RVAProdavnica.Web\\Views\\Shared\\Navbar.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T15:12:42.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\Areas\\Administration\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Web\\Areas\\Administration\\Controllers\\UserController.cs",
@@ -131,19 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Navbar.cshtml",
-              "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\Views\\Shared\\Navbar.cshtml",
-              "RelativeDocumentMoniker": "RVAProdavnica.Web\\Views\\Shared\\Navbar.cshtml",
-              "ToolTip": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\Views\\Shared\\Navbar.cshtml",
-              "RelativeToolTip": "RVAProdavnica.Web\\Views\\Shared\\Navbar.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBYAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T15:12:42.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Services\\UserService.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Services\\UserService.cs",
@@ -156,20 +217,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Data\\Product.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Data\\Product.cs",
               "ToolTip": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Data\\Product.cs",
               "RelativeToolTip": "RVAProdavnica.Data\\Product.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T00:24:33.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "RVAProdavnica.Web.csproj",
               "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\RVAProdavnica.Web.csproj",
               "RelativeDocumentMoniker": "RVAProdavnica.Web\\RVAProdavnica.Web.csproj",
@@ -181,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Repositories\\ProductRepository.cs",
@@ -193,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Services\\ProductService.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Services\\ProductService.cs",
@@ -205,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Repositories\\UserRepository.cs",
@@ -217,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "UserModel.cs",
               "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Models\\UserModel.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Models\\UserModel.cs",
@@ -229,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Data\\DataContext.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Data\\DataContext.cs",
@@ -241,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Data\\Car.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Data\\Car.cs",
@@ -253,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "BugReport.cs",
               "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Data\\BugReport.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Data\\BugReport.cs",
@@ -265,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Base.cs",
               "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Data\\Base.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Data\\Base.cs",
@@ -277,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Data\\User.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Data\\User.cs",
@@ -289,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "ProductModel.cs",
               "DocumentMoniker": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Models\\ProductModel.cs",
               "RelativeDocumentMoniker": "RVAProdavnica.Models\\ProductModel.cs",
@@ -308,10 +369,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             },
             {
               "$type": "Bookmark",

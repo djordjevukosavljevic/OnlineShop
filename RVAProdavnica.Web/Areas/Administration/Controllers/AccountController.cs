@@ -4,7 +4,6 @@ using RVAProdavnica.Web.Controllers;
 namespace RVAProdavnica.Web.Areas.Administration.Controllers
 {
     [Area("Administration")]
-    [Route("/")]
     public class AccountController : Controller
     {
         private readonly ILogger<HomeController> _logger;

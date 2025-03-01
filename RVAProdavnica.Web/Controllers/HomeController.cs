@@ -8,6 +8,7 @@ using System.Diagnostics;
 
 namespace RVAProdavnica.Web.Controllers
 {
+    
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
@@ -19,7 +20,7 @@ namespace RVAProdavnica.Web.Controllers
 
         public IActionResult Index()
         {
-            return View("/Home");
+            return View();
         }
 
         public IActionResult ContactUs()
