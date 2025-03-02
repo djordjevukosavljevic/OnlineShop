@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xuhIKg3WZkV4rsyXiM3Wl7TIis3C/8NZVTIyrZWKMk8=",
+  "Hash": "CjmvgZ9fBpay2IBasrVsHw6O86x0DVu+E5e994DlvrM=",
   "Source": "RVAProdavnica.Web",
   "BasePath": "_content/RVAProdavnica.Web",
   "Mode": "Default",
@@ -2747,6 +2747,27 @@
       "OriginalItemSpec": "wwwroot\\js\\homebtn.js"
     },
     {
+      "Identity": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\loginRedirection.js",
+      "SourceId": "RVAProdavnica.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\",
+      "BasePath": "_content/RVAProdavnica.Web",
+      "RelativePath": "js/loginRedirection#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lywel9fom9",
+      "Integrity": "o3jZItgS3O2ZPkjUr9OuQ3o5oSMn9HjDCSgXuGEgKhk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\loginRedirection.js"
+    },
+    {
       "Identity": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\material-dashboard.js",
       "SourceId": "RVAProdavnica.Web",
       "SourceType": "Discovered",
@@ -4782,27 +4803,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\products.js"
-    },
-    {
-      "Identity": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\registration.js",
-      "SourceId": "RVAProdavnica.Web",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\",
-      "BasePath": "_content/RVAProdavnica.Web",
-      "RelativePath": "js/registration#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "jkcxp4ftey",
-      "Integrity": "4zbIaKgguzQwlBTIIBlNIuTGxWJX0AI0+ACHQxCdGZ4=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\registration.js"
     },
     {
       "Identity": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -17454,6 +17454,88 @@
       ]
     },
     {
+      "Route": "js/loginRedirection.js",
+      "AssetFile": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\loginRedirection.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o3jZItgS3O2ZPkjUr9OuQ3o5oSMn9HjDCSgXuGEgKhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 12:53:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o3jZItgS3O2ZPkjUr9OuQ3o5oSMn9HjDCSgXuGEgKhk="
+        }
+      ]
+    },
+    {
+      "Route": "js/loginRedirection.lywel9fom9.js",
+      "AssetFile": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\loginRedirection.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o3jZItgS3O2ZPkjUr9OuQ3o5oSMn9HjDCSgXuGEgKhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 12:53:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lywel9fom9"
+        },
+        {
+          "Name": "label",
+          "Value": "js/loginRedirection.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o3jZItgS3O2ZPkjUr9OuQ3o5oSMn9HjDCSgXuGEgKhk="
+        }
+      ]
+    },
+    {
       "Route": "js/material-dashboard.7602081745.js",
       "AssetFile": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\material-dashboard.js",
       "Selectors": [],
@@ -25404,88 +25486,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-VkkHYG9YY9WxhkF3SlKDScIOyS7Epz6B2XdBS9Xr4Hc="
-        }
-      ]
-    },
-    {
-      "Route": "js/registration.jkcxp4ftey.js",
-      "AssetFile": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\registration.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "132"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4zbIaKgguzQwlBTIIBlNIuTGxWJX0AI0+ACHQxCdGZ4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 15:20:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "jkcxp4ftey"
-        },
-        {
-          "Name": "label",
-          "Value": "js/registration.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-4zbIaKgguzQwlBTIIBlNIuTGxWJX0AI0+ACHQxCdGZ4="
-        }
-      ]
-    },
-    {
-      "Route": "js/registration.js",
-      "AssetFile": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\registration.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "132"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4zbIaKgguzQwlBTIIBlNIuTGxWJX0AI0+ACHQxCdGZ4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 15:20:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4zbIaKgguzQwlBTIIBlNIuTGxWJX0AI0+ACHQxCdGZ4="
         }
       ]
     },

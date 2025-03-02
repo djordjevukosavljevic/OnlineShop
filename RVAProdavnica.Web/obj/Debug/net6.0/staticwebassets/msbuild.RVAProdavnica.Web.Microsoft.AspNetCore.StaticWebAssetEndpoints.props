@@ -816,6 +816,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t5jg7ulxdz"},{"Name":"integrity","Value":"sha256-AfRZuvIFMF5Z7XR/DQwiUel2wubckMU1CBC\u002BwT0LvS8="},{"Name":"label","Value":"_content/RVAProdavnica.Web/js/homebtn.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"120"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022AfRZuvIFMF5Z7XR/DQwiUel2wubckMU1CBC\u002BwT0LvS8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Feb 2025 13:49:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/js/loginRedirection.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\loginRedirection.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-o3jZItgS3O2ZPkjUr9OuQ3o5oSMn9HjDCSgXuGEgKhk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"136"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022o3jZItgS3O2ZPkjUr9OuQ3o5oSMn9HjDCSgXuGEgKhk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Mar 2025 12:53:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/js/loginRedirection.lywel9fom9.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\loginRedirection.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lywel9fom9"},{"Name":"integrity","Value":"sha256-o3jZItgS3O2ZPkjUr9OuQ3o5oSMn9HjDCSgXuGEgKhk="},{"Name":"label","Value":"_content/RVAProdavnica.Web/js/loginRedirection.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"136"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022o3jZItgS3O2ZPkjUr9OuQ3o5oSMn9HjDCSgXuGEgKhk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 02 Mar 2025 12:53:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/js/material-dashboard.7602081745.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\material-dashboard.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -1979,18 +1991,6 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qwhw0hzeq7"},{"Name":"integrity","Value":"sha256-VkkHYG9YY9WxhkF3SlKDScIOyS7Epz6B2XdBS9Xr4Hc="},{"Name":"label","Value":"_content/RVAProdavnica.Web/js/products.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1273"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022VkkHYG9YY9WxhkF3SlKDScIOyS7Epz6B2XdBS9Xr4Hc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 11:29:35 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/js/registration.jkcxp4ftey.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\registration.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jkcxp4ftey"},{"Name":"integrity","Value":"sha256-4zbIaKgguzQwlBTIIBlNIuTGxWJX0AI0\u002BACHQxCdGZ4="},{"Name":"label","Value":"_content/RVAProdavnica.Web/js/registration.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"132"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00224zbIaKgguzQwlBTIIBlNIuTGxWJX0AI0\u002BACHQxCdGZ4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Jan 2025 15:20:05 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/js/registration.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\registration.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4zbIaKgguzQwlBTIIBlNIuTGxWJX0AI0\u002BACHQxCdGZ4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"132"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00224zbIaKgguzQwlBTIIBlNIuTGxWJX0AI0\u002BACHQxCdGZ4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Jan 2025 15:20:05 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RVAProdavnica.Web/lib/bootstrap/dist/css/bootstrap-grid.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>

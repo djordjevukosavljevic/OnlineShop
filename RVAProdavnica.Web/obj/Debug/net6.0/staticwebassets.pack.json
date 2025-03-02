@@ -277,6 +277,10 @@
       "PackagePath": "staticwebassets\\js\\homebtn.js"
     },
     {
+      "Id": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\loginRedirection.js",
+      "PackagePath": "staticwebassets\\js\\loginRedirection.js"
+    },
+    {
       "Id": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\material-dashboard.js",
       "PackagePath": "staticwebassets\\js\\material-dashboard.js"
     },
@@ -663,10 +667,6 @@
     {
       "Id": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\products.js",
       "PackagePath": "staticwebassets\\js\\products.js"
-    },
-    {
-      "Id": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\js\\registration.js",
-      "PackagePath": "staticwebassets\\js\\registration.js"
     },
     {
       "Id": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\wwwroot\\lib\\bootstrap\\LICENSE",

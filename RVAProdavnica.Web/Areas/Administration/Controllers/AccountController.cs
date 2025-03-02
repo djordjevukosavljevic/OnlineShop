@@ -4,6 +4,7 @@ using RVAProdavnica.Web.Controllers;
 namespace RVAProdavnica.Web.Areas.Administration.Controllers
 {
     [Area("Administration")]
+    [Route("Administration/Views/Account/")]
     public class AccountController : Controller
     {
         private readonly ILogger<HomeController> _logger;
@@ -14,7 +15,7 @@ namespace RVAProdavnica.Web.Areas.Administration.Controllers
         }
 
         [HttpGet]
-        public IActionResult Index()
+        public IActionResult LogInIndex()
         {
             return View();
         }
