@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.CodeAnalysis;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using NuGet.Protocol;
 using RVAProdavnica.Data;
 using RVAProdavnica.Models;
 using RVAProdavnica.Repositories;
@@ -12,26 +13,33 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace RVAProdavnica.Web.Areas.Administration.Controllers
 {
     [Area("Administration")]
-    [Route("/Administration/[controller]/[action]/{id}")]
+    [Route("api/users")]
     public class UserController : Controller
     {
-        private readonly DbContext _dbContext;
-
+        private readonly DbContext dbContext;
         private readonly IUserService userService;
 
-        public UserController(IUserService userService, DbContext dbContext)
+
+        public UserController(DbContext dbContext, IUserService userService)
         {
-            _dbContext = dbContext;
+            this.dbContext = dbContext;
             this.userService = userService;
         }
 
-        [HttpGet]
-        public IActionResult Login()
+        [HttpGet("/id")]
+        public IActionResult GetUserById(int id)
         {
-            return View();
+            var user = userService.GetById(id);
+            if (user == null)
+            {
+                return NotFound(new { message = "User not found!" });
+            }
+            return Ok(user);
+
         }
 
-      
-
     }
+
+
+
 }

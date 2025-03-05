@@ -26,8 +26,6 @@ namespace RVAProdavnica.Services
 
         private readonly IMapper mapper;
 
-
-        // Dependency injection
         public UserService(IUserRepository userRepository, IMapper mapper)
         {
             this.userRepository = userRepository;
@@ -47,7 +45,6 @@ namespace RVAProdavnica.Services
             return mapper.Map<UserModel>(userRepository.GetOne(id));
         }
 
-        // Update user service method
         public void Update(UserModel obj)
         {
             userRepository.Update(mapper.Map<User>(obj));
