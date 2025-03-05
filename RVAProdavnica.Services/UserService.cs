@@ -17,7 +17,7 @@ namespace RVAProdavnica.Services
 
         User Create(User user);
 
-        //User Update(User user);
+        void Update(UserModel obj);
     }
 
     public class UserService : IUserService
@@ -32,19 +32,22 @@ namespace RVAProdavnica.Services
             this.mapper = mapper;
         }
 
+
+        // Create user service method
         public User Create(User user)
         {
             return mapper.Map<User>(userRepository.Create(user));
         }
 
+        // Get by id service method
         public UserModel GetById(int id)
         {
             return mapper.Map<UserModel>(userRepository.GetOne(id));
         }
-        
-        //public User Update(User user)
-        //{
-        //    mapper.Map<User>(userRepository.Update(User);
-        //}
+
+        public void Update(UserModel obj)
+        {
+            userRepository.Update(mapper.Map<User>(obj));
+        }
     }
 }
