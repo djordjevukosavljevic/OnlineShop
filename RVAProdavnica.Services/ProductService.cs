@@ -29,6 +29,8 @@ namespace RVAProdavnica.Services
 
         private readonly IMapper mapper;
 
+
+        // Dependency injection
         public ProductService(IProductRepository productRepository, IMapper mapper)
         {
             this.productRepository = productRepository;
