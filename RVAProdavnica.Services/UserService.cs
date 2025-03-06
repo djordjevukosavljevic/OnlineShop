@@ -44,7 +44,7 @@ namespace RVAProdavnica.Services
         {
             return mapper.Map<UserModel>(userRepository.GetOne(id));
         }
-
+    
         public void Update(UserModel obj)
         {
             userRepository.Update(mapper.Map<User>(obj));

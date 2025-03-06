@@ -35,7 +35,7 @@ namespace RVAProdavnica.Web.Areas.Administration.Controllers
                 return NotFound(new { message = "User not found!" });
             }
             return Ok(user);
-
+            
         }
 
     }
