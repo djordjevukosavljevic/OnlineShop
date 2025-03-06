@@ -26,7 +26,7 @@ namespace RVAProdavnica.Web.Areas.Administration.Controllers
             this.userService = userService;
         }
 
-        [HttpGet("/id")]
+        [HttpGet("/{id}")]
         public IActionResult GetUserById(int id)
         {
             var user = userService.GetById(id);
