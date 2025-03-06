@@ -13,7 +13,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace RVAProdavnica.Web.Areas.Administration.Controllers
 {
     [Area("Administration")]
-    [Route("api/users")]
+    [Route("api/user")]
     public class UserController : Controller
     {
         private readonly DbContext dbContext;

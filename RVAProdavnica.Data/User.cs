@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace RVAProdavnica.Data
 {
-    [Table("users")]
+    [Table("user")]
     public class User : Base
     {
         [Column("name")]

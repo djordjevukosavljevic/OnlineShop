@@ -19,10 +19,17 @@ builder.Services.AddControllersWithViews();
 
 SimpleCRUD.SetDialect(SimpleCRUD.Dialect.MySQL);
 
-// For building reposs
+// For building reposs as singletons!
 builder.Services.AddSingleton<IProductRepository, ProductRepository>();
 builder.Services.AddSingleton<IOrderRepository, OrderRepository>();
 builder.Services.AddSingleton<IProductService, ProductService>();
+builder.Services.AddSingleton<IUserRepository, UserRepository>();
+builder.Services.AddSingleton<IUserService, UserService>();
+
+
+// Add Controllers
+builder.Services.AddControllers();
+
 
 builder.Services.AddAutoMapper(typeof(MapperService));
 
