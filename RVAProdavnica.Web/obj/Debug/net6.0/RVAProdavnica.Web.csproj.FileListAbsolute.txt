@@ -2313,4 +2313,3 @@ C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\refin
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\RVAProdavnica.Web.pdb
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\RVAProdavnica.Web.genruntimeconfig.cache
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\ref\RVAProdavnica.Web.dll
-C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
