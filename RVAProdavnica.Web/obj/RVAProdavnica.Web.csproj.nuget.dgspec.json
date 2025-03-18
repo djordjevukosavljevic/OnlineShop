@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAPRODAVNICA.WEb\\RVAProdavnica.Web.csproj": {}
+    "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\RVAProdavnica.Web.csproj": {}
   },
   "projects": {
     "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj": {
@@ -327,14 +327,14 @@
         }
       }
     },
-    "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAPRODAVNICA.WEb\\RVAProdavnica.Web.csproj": {
+    "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\RVAProdavnica.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAPRODAVNICA.WEb\\RVAProdavnica.Web.csproj",
+        "projectUniqueName": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\RVAProdavnica.Web.csproj",
         "projectName": "RVAProdavnica.Web",
-        "projectPath": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAPRODAVNICA.WEb\\RVAProdavnica.Web.csproj",
+        "projectPath": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\RVAProdavnica.Web.csproj",
         "packagesPath": "C:\\Users\\djord\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAPRODAVNICA.WEb\\obj\\",
+        "outputPath": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
