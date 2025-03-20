@@ -12,13 +12,12 @@ namespace RVAProdavnica.Services
 {
     public interface IUserService
     {
-
         UserModel GetById(int id);
 
         User Create(User user);
 
-        void Update(UserModel obj);
-    }
+        void Update(UserModel obj); 
+    }  
 
     public class UserService : IUserService
     {
