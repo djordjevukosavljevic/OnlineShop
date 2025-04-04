@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Vy1Lz4HnIH4=",
+  "dgSpecHash": "AwySKY5fpe0=",
   "success": true,
   "projectFilePath": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Services\\RVAProdavnica.Services.csproj",
   "expectedPackageFiles": [
@@ -97,5 +97,46 @@
     "C:\\Users\\djord\\.nuget\\packages\\system.threading.timer\\4.0.1\\system.threading.timer.4.0.1.nupkg.sha512",
     "C:\\Users\\djord\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Extensions.Caching.Memory' 6.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-qj66-m88j-hmgj",
+      "libraryId": "Microsoft.Extensions.Caching.Memory",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1904",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Drawing.Common' 4.7.0 has a known critical severity vulnerability, https://github.com/advisories/GHSA-rxg9-xrhp-64gj",
+      "libraryId": "System.Drawing.Common",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Net.Http' 4.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-7jgj-8wvc-jh57",
+      "libraryId": "System.Net.Http",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Security.Cryptography.X509Certificates' 4.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-7mfr-774f-w5r9",
+      "libraryId": "System.Security.Cryptography.X509Certificates",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
