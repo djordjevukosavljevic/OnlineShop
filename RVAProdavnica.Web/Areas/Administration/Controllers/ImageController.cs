@@ -20,5 +20,11 @@ namespace RVAProdavnica.Web.Areas.Administration.Controllers
         {
             return View();
         }
+
+        public IActionResult getById()
+        {
+            var result = imageService;
+            return View();
+        }
     }
 }
