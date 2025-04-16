@@ -13,16 +13,14 @@ namespace RVAProdavnica.Data
     {
         [Column("name")]
         public string Name { get; set; }
-        [Column("username")]
-        public string Username {get;set;}
-        [Column("lastname")]
-        public string Lastname { get; set; }
+        [Column("surrname")]
+        public string Surrname { get; set; }
         [Column("email")]
-        public string? Email { get; set; }
+        public string Email { get; set; }
         [Column("password")]
         public string Password { get; set; }
         [Column("role")]
-        public Role role {get;set;}
+        public Role role { get; set; }
 
         public enum Role { ADMIN, PREMIUM_USER, USER }
     }

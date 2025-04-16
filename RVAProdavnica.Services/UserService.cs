@@ -14,6 +14,8 @@ namespace RVAProdavnica.Services
     {
         UserModel GetById(int id);
 
+        List<UserModel> GetAllUsers();
+
         User Create(User user);
 
         void Update(UserModel obj); 
@@ -47,6 +49,11 @@ namespace RVAProdavnica.Services
         public void Update(UserModel obj)
         {
             userRepository.Update(mapper.Map<User>(obj));
+        }
+
+        public List<UserModel> GetAllUsers()
+        {
+            return mapper.Map<List<UserModel>>(userRepository.GetAll());
         }
     }
 }
