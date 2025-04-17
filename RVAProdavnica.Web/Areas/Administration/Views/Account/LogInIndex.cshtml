@@ -24,87 +24,93 @@
 <body
     class="vertical-layout vertical-menu-modern  1-column  navbar-floating footer-static bg-full-screen-image  blank-page blank-page"
     data-open="click" data-menu="vertical-menu-modern" data-col="1-column">
-    <div style="position: relative; right: -50px">
-        <!-- BEGIN: Content-->
-        <div class="app-content content">
-            <div class="content-overlay"></div>
-            <div class="header-navbar-shadow"></div>
-            <div class="content-wrapper">
-                <div class="content-header row">
-                </div>
-                <div class="content-body">
-                    <section class="row flexbox-container">
-                        <div class="col-xl-8 col-11 d-flex justify-content-center">
-                            <div class="card bg-authentication rounded-0 mb-0">
-                                <div class="row m-0">
-                                    <div class="col-lg-6 col-12 p-0">
-                                        <div class="card rounded-0 mb-0 px-2">
-                                            <div class="card-header pb-1">
-                                                <div class="card-title">
-                                                    <h4 class="mb-0">Logging</h4>
+    <tbody class="text-center">
+        <div style="position: fixed; right: 500px ">
+            <!-- BEGIN: Content-->
+            <div class="app-content content">
+                <div class="content-overlay"></div>
+                <div class="header-navbar-shadow"></div>
+                <div class="content-wrapper">
+                    <div class="content-header row">
+                    </div>
+                    <div class="content-body">
+                        <section class="row flexbox-container">
+                            <div class="col-xl-8 col-11 d-flex justify-content-center">
+                                <div class="card bg-authentication rounded-0 mb-0">
+                                    <div class="row m-0">
+                                        <div class="col-lg-6 col-12 p-0">
+                                            <div class="card rounded-0 mb-0 px-2">
+                                                <div class="card-header pb-1">
+                                                    <div class="card-title">
+                                                        <h4 class="mb-0">Logging</h4>
+                                                    </div>
                                                 </div>
-                                            </div>
-                                            <p class="px-2">Enter your credentials</p>
-                                            <div class="card-content">
-                                                <div class="card-body pt-1">
-                                                    <form id="frmLogin" action="/account/login" method="post"
-                                                        novalidate>
-                                                        <fieldset
-                                                            class="form-label-group form-group position-relative has-icon-left">
-                                                            <label for="username"
-                                                                placeholder="Enter username:">Username:</label><br>
-                                                            <input type="text" class="form-control" id="username"
-                                                                name="username" placeholder="Enter username" required
-                                                                data-validation-required-message="Morate uneti korisnicko ime"
-                                                                style="width: 300px">
-                                                            <small id="emailHelp" class="form-text text-muted">We'll
-                                                                never share your email with anyone else.</small>
-                                                            <div class="form-control-position">
-                                                                <i class="feather icon-user"></i>
+                                                <p class="px-2">Enter your credentials</p>
+                                                <div class="card-content">
+                                                    <div class="card-body pt-1">
+                                                        <form id="frmLogin" action="/account/login" method="post"
+                                                            novalidate>
+                                                            <fieldset
+                                                                class="form-label-group form-group position-relative has-icon-left">
+                                                                <label for="email"
+                                                                    placeholder="Enter Email:">Email:</label><br>
+                                                                <input type="text" class="form-control" id="email"
+                                                                    name="email" placeholder="Enter email"
+                                                                    required
+                                                                    data-validation-required-message="Morate uneti korisnicko ime"
+                                                                    style="width: 300px">
+                                                                <small id="emailHelp" class="form-text text-muted">We'll
+                                                                    never share your email with anyone else.</small>
+                                                                <div class="form-control-position">
+                                                                    <i class="feather icon-user"></i>
+                                                                </div>
+                                                            </fieldset>
+                                                            <fieldset
+                                                                class="form-label-group position-relative has-icon-left">
+                                                                <label for="password"
+                                                                    placeholder="Enter password">Password:</label><br>
+                                                                <input type="password" class="form-control"
+                                                                    id="password" name="password"
+                                                                    placeholder="Enter password" required
+                                                                    data-validation-required-message="Morate uneti sifru"
+                                                                    style="width: 300px;">
+                                                                <input type="checkbox" onclick="myFunction()">Show
+                                                                Password
+                                                                <br><label>Still don't have account?
+                                                                    <br><button id="registerBtn" style="color: cyan;"><a
+                                                                            href="">Register here</a></button>
+                                                                </label>
+                                                                <div class="form-control-position">
+                                                                    <i class="feather icon-lock"></i>
+                                                                </div>
+                                                            </fieldset><br>
+                                                            <button type="submit" id="btnLogin"
+                                                                class="btn btn-success float-right btn-inline">Log
+                                                                in</button>
+                                                            <br><a href="">Forgot your password?</a>
+                                                            <br><br>
+                                                            <div class="float-right pt-25 pr-1">
+                                                                <div id="loginSpinner"
+                                                                    class="spinner-border text-primary" role="status"
+                                                                    style="display:none;">
+                                                                    <span class="sr-only">Loading...</span>
+                                                                </div>
                                                             </div>
-                                                        </fieldset>
-                                                        <fieldset
-                                                            class="form-label-group position-relative has-icon-left">
-                                                            <label for="password"
-                                                                placeholder="Enter password">Password:</label><br>
-                                                            <input type="password" class="form-control" id="password"
-                                                                name="password" placeholder="Enter password" required
-                                                                data-validation-required-message="Morate uneti sifru"
-                                                                style="width: 300px;">
-                                                            <input type="checkbox" onclick="myFunction()">Show Password
-                                                            <br><label>Still don't have account?
-                                                                <br><button id="registerBtn" style="color: cyan;"><a
-                                                                        href="">Register here</a></button>
-                                                            </label>
-                                                            <div class="form-control-position">
-                                                                <i class="feather icon-lock"></i>
-                                                            </div>
-                                                        </fieldset><br>
-                                                        <button type="submit" id="btnLogin"
-                                                            class="btn btn-success float-right btn-inline">Log
-                                                            in</button>
-                                                        <br><a href="">Forgot your password?</a>
-                                                        <br><br>
-                                                        <div class="float-right pt-25 pr-1">
-                                                            <div id="loginSpinner" class="spinner-border text-primary"
-                                                                role="status" style="display:none;">
-                                                                <span class="sr-only">Loading...</span>
-                                                            </div>
-                                                        </div>
-                                                    </form>
+                                                        </form>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </section>
+                        </section>
+                    </div>
                 </div>
-            </div>
 
+            </div>
         </div>
-    </div>
+    </tbody>
     <script type="text/javascript">
         document.getElementById("btnLogin").onclick = function () {
             window.alert("Test");
