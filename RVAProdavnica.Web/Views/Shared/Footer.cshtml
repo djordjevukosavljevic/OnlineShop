@@ -1,40 +1,43 @@
-﻿<footer class="footer py-4">
-    <script src="text/javascript"></script>
-    <div class="container-fluid">
-        <div class="row align-items-center justify-content-lg-between">
-            <div class="col-lg-6 mb-lg-0 mb-4">
-                <div>
-                    <p style="color: #344767;">
-                        <strong><bold>
-                          We offer top-notch solutions in the web industry, 
-                          driven by a commitment to continuous improvement. 
-                          Our team is dedicated to making the web better each day,
-                            contributing to a superior online experience.
-                        </strong></bold>
-                      </p>
+﻿<footer class="footer">
+    <div class="h1 text-center">
+        <div class="container-fluid">
+            <div class="row text-center justify-content-lg-between">
+                <div class="col-lg-6 mb-lg-0 mb-4">
+                    <div class">
+                        <p style="color: #344767;">
+                            <strong>
+                                <bold>
+                                    We offer top-notch solutions in the web industry,
+                                    driven by a commitment to continuous improvement.
+                                    Our team is dedicated to making the web better each day,
+                                    contributing to a superior online experience.
+                            </strong></bold>
+                        </p>
+                    </div>
+                    <div class="copyright text-center text-sm text-muted text-lg-start">
+                        ©
+                        <script>
+                            document.write(new Date().getFullYear())
+                        </script>,
+                        made with <a id="weLoveThisSport" class="" target="_blank"><i class="fa fa-heart"></a></i> by
+                        <a href="https://github.com/djordjevukosavljevic" class="font-weight-bold"
+                            target="_blank">zorzezorz</a>
+                        for a better web.
+                    </div>
                 </div>
-                <div class="copyright text-center text-sm text-muted text-lg-start">
-                    ©
-                    <script>
-                        document.write(new Date().getFullYear())
-                    </script>,
-                    made with <a  id="weLoveThisSport" class="" target="_blank"><i class="fa fa-heart"></a></i> by
-                    <a href="https://github.com/djordjevukosavljevic" class="font-weight-bold" target="_blank">zorzezorz</a>
-                    for a better web.
+                <div class="col-lg-6">
+                    <ul class="nav nav-footer justify-content-center justify-content-lg-end">
+                        <li class="nav-item">
+                    </ul>
                 </div>
-            </div>
-            <div class="col-lg-6">
-                <ul class="nav nav-footer justify-content-center justify-content-lg-end">
-                    <li class="nav-item">
-                </ul>
             </div>
         </div>
     </div>
 </footer>
 
-@section Scrits{
+@section Scrits {
     <script>
-        document.getElementById("weLoveThisSport").addEventListener("mouseover", function{ 
+        document.getElementById("weLoveThisSport").addEventListener("mouseover", function{
             this.textContent = "OneLove!";
         });
         document.getElementById("weLoveThisSport").addEventListener("mouseout", function{
