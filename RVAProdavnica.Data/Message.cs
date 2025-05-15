@@ -5,11 +5,9 @@ namespace RVAProdavnica.Data
     [Table("message")]
     public class Message
     {   
-        [Column("user")]
-        public User User;
-        [Column("size")]
-        public double Size;
+        [Column("email")]
+        public String? email;
         [Column("text")]
-        public String Text;
+        public String? Text;
     }
 }
