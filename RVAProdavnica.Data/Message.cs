@@ -3,11 +3,11 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace RVAProdavnica.Data
 {
     [Table("message")]
-    public class Message
+    public class Message : Base
     {   
         [Column("email")]
-        public String? email;
+        public string? Email { get; set; }
         [Column("text")]
-        public String? Text;
+        public string? Text { get; set; }
     }
 }
