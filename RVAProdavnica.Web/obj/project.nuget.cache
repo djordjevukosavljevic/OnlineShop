@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vj+dlloxFAs=",
+  "dgSpecHash": "nqSE+Y9vJ5U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAPRodavnica.web\\RVAProdavnica.Web.csproj",
+  "projectFilePath": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.web\\RVAProdavnica.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\djord\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\djord\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
