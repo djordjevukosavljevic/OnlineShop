@@ -5891,42 +5891,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\djord\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\zorzezorz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Services\\RVAProdavnica.Services.csproj",
+      "projectUniqueName": "C:\\Users\\zorzezorz\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Services\\RVAProdavnica.Services.csproj",
       "projectName": "RVAProdavnica.Services",
-      "projectPath": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Services\\RVAProdavnica.Services.csproj",
-      "packagesPath": "C:\\Users\\djord\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Services\\obj\\",
+      "projectPath": "C:\\Users\\zorzezorz\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Services\\RVAProdavnica.Services.csproj",
+      "packagesPath": "C:\\Users\\zorzezorz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zorzezorz\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Services\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\djord\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\zorzezorz\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Models\\RVAProdavnica.Models.csproj": {
-              "projectPath": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Models\\RVAProdavnica.Models.csproj"
+            "C:\\Users\\zorzezorz\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Models\\RVAProdavnica.Models.csproj": {
+              "projectPath": "C:\\Users\\zorzezorz\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Models\\RVAProdavnica.Models.csproj"
             },
-            "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj": {
-              "projectPath": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj"
+            "C:\\Users\\zorzezorz\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj": {
+              "projectPath": "C:\\Users\\zorzezorz\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj"
             }
           }
         }
@@ -5939,9 +5932,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net6.0": {
@@ -5967,55 +5960,27 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.Extensions.Caching.Memory' 6.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-qj66-m88j-hmgj",
-      "libraryId": "Microsoft.Extensions.Caching.Memory",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1904",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Drawing.Common' 4.7.0 has a known critical severity vulnerability, https://github.com/advisories/GHSA-rxg9-xrhp-64gj",
-      "libraryId": "System.Drawing.Common",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Net.Http' 4.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-7jgj-8wvc-jh57",
-      "libraryId": "System.Net.Http",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Security.Cryptography.X509Certificates' 4.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-7mfr-774f-w5r9",
-      "libraryId": "System.Security.Cryptography.X509Certificates",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }
