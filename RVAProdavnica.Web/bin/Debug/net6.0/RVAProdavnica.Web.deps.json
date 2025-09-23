@@ -2800,7 +2800,7 @@
         },
         "runtime": {
           "RVAProdavnica.Data.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -2811,7 +2811,7 @@
         },
         "runtime": {
           "RVAProdavnica.Models.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -2827,7 +2827,7 @@
         },
         "runtime": {
           "RVAProdavnica.Repositories.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -2841,7 +2841,7 @@
         },
         "runtime": {
           "RVAProdavnica.Services.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

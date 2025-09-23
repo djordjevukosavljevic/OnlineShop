@@ -5818,19 +5818,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\zorzezorz\\.nuget\\packages\\": {}
+    "C:\\Users\\djord\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zorzezorz\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj",
       "projectName": "RVAProdavnica.Repositories",
-      "projectPath": "C:\\Users\\zorzezorz\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj",
-      "packagesPath": "C:\\Users\\zorzezorz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zorzezorz\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Repositories\\obj\\",
+      "projectPath": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Repositories\\RVAProdavnica.Repositories.csproj",
+      "packagesPath": "C:\\Users\\djord\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\zorzezorz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\djord\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -5842,8 +5842,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\zorzezorz\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj": {
-              "projectPath": "C:\\Users\\zorzezorz\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj"
+            "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj": {
+              "projectPath": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj"
             }
           }
         }
@@ -5857,8 +5857,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net6.0": {
@@ -5901,7 +5900,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414\\RuntimeIdentifierGraph.json"
       }
     }
   }

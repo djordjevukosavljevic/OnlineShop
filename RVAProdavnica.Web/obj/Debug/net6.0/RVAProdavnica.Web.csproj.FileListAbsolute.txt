@@ -2032,7 +2032,6 @@ E:/zorzezorz/Dev/dotnet/OnlineShop/RVAProdavnica.Web/obj/Debug/net6.0/ref/RVAPro
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\bin\Debug\net6.0\appsettings.json
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\bin\Debug\net6.0\RVAProdavnica.Web.staticwebassets.runtime.json
-C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\bin\Debug\net6.0\RVAProdavnica.Web.staticwebassets.endpoints.json
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\bin\Debug\net6.0\RVAProdavnica.Web.exe
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\bin\Debug\net6.0\RVAProdavnica.Web.deps.json
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\bin\Debug\net6.0\RVAProdavnica.Web.runtimeconfig.json
@@ -2300,9 +2299,7 @@ C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\scope
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\scopedcss\projectbundle\RVAProdavnica.Web.bundle.scp.css
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\staticwebassets.build.endpoints.json
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\staticwebassets\msbuild.RVAProdavnica.Web.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\staticwebassets\msbuild.RVAProdavnica.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.RVAProdavnica.Web.props
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RVAProdavnica.Web.props
 C:\Users\djord\Documents\Dev\OnlineShop\RVAProdavnica.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RVAProdavnica.Web.props

@@ -4796,19 +4796,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\zorzezorz\\.nuget\\packages\\": {}
+    "C:\\Users\\djord\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zorzezorz\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj",
+      "projectUniqueName": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj",
       "projectName": "RVAProdavnica.Data",
-      "projectPath": "C:\\Users\\zorzezorz\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj",
-      "packagesPath": "C:\\Users\\zorzezorz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zorzezorz\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Data\\obj\\",
+      "projectPath": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Data\\RVAProdavnica.Data.csproj",
+      "packagesPath": "C:\\Users\\djord\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\djord\\Documents\\Dev\\OnlineShop\\RVAProdavnica.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\zorzezorz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\djord\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -4831,8 +4831,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net6.0": {
@@ -4867,7 +4866,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414\\RuntimeIdentifierGraph.json"
       }
     }
   }
